@@ -1,0 +1,7616 @@
+{
+"fetched_at": "2026-09-30T08:48:11+07:00",
+"count": 1522,
+"items": [
+{
+"symbol": "A32",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần 32"
+},
+{
+"symbol": "AAA",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Nhựa An Phát Xanh"
+},
+{
+"symbol": "AAH",
+"exchange": "UPCOM",
+"company_name": "CTCP Hợp Nhất"
+},
+{
+"symbol": "AAM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy sản Mekong"
+},
+{
+"symbol": "AAN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Lương thực A An"
+},
+{
+"symbol": "AAS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng khoán SmartInvest"
+},
+{
+"symbol": "AAT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Tiên Sơn Thanh Hóa"
+},
+{
+"symbol": "AAV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần AAV Group"
+},
+{
+"symbol": "ABB",
+"exchange": "UPCOM",
+"company_name": "Ngân hàng Thương mại Cổ phần An Bình"
+},
+{
+"symbol": "ABC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Truyền thông VMG"
+},
+{
+"symbol": "ABI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp (ABIC) "
+},
+{
+"symbol": "ABR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Nhãn hiệu Việt"
+},
+{
+"symbol": "ABS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dịch vụ Nông nghiệp Bình Thuận"
+},
+{
+"symbol": "ABT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu thủy sản Bến Tre"
+},
+{
+"symbol": "ABW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng khoán An Bình"
+},
+{
+"symbol": "ACB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Á Châu"
+},
+{
+"symbol": "ACC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư và Xây dựng Bình Dương ACC"
+},
+{
+"symbol": "ACE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bê tông ly tâm An Giang"
+},
+{
+"symbol": "ACG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Gỗ An Cường"
+},
+{
+"symbol": "ACL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang"
+},
+{
+"symbol": "ACM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn khoáng sản Á Cường"
+},
+{
+"symbol": "ACS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây lắp Thương mại 2"
+},
+{
+"symbol": "ACV",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty cảng hàng không Việt Nam - CTCP"
+},
+{
+"symbol": "ADC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Mĩ thuật và Truyền thông "
+},
+{
+"symbol": "ADG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Clever Group"
+},
+{
+"symbol": "ADP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sơn Á Đông "
+},
+{
+"symbol": "ADS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Damsan"
+},
+{
+"symbol": "AFX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Nông sản thực phẩm An Giang"
+},
+{
+"symbol": "AG1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần 28.1"
+},
+{
+"symbol": "AGF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu thủy sản An Giang "
+},
+{
+"symbol": "AGG",
+"exchange": "HOSE",
+"company_name": "CTCP Đầu tư và phát triển bất động sản An Gia"
+},
+{
+"symbol": "AGM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần xuất nhập khẩu An Giang"
+},
+{
+"symbol": "AGP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược phẩm Agimexpharm"
+},
+{
+"symbol": "AGR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Agribank"
+},
+{
+"symbol": "AGX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn"
+},
+{
+"symbol": "AIC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Bảo hiểm Hàng không"
+},
+{
+"symbol": "AIG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần nguyên liệu Á Châu AIG"
+},
+{
+"symbol": "ALC",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Âu Lạc"
+},
+{
+"symbol": "ALT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần văn hoá Tân Bình "
+},
+{
+"symbol": "ALV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn MCST"
+},
+{
+"symbol": "AMC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Khoáng sản Á Châu"
+},
+{
+"symbol": "AME",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Alphanam E&C"
+},
+{
+"symbol": "AMP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Armephaco"
+},
+{
+"symbol": "AMS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cơ khí Xây dựng AMECC"
+},
+{
+"symbol": "AMV",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sản xuất kinh doanh dược và Trang thiết bị y tế Việt Mỹ"
+},
+{
+"symbol": "ANI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần ANI"
+},
+{
+"symbol": "ANT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Rau quả thực phẩm An Giang"
+},
+{
+"symbol": "ANV",
+"exchange": "HOSE",
+"company_name": "Công ty TNHH Amicogen Nam Việt"
+},
+{
+"symbol": "APC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chiếu xạ An Phú"
+},
+{
+"symbol": "APF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nông sản Thực phẩm Quảng Ngãi"
+},
+{
+"symbol": "APG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán APG"
+},
+{
+"symbol": "APH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn An Phát Holdings"
+},
+{
+"symbol": "API",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương"
+},
+{
+"symbol": "APL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cơ khí và thiết bị áp lực – VVMI"
+},
+{
+"symbol": "APP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phát triển Phụ gia và Sản phẩm dầu mỏ "
+},
+{
+"symbol": "APS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương"
+},
+{
+"symbol": "APT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kinh doanh Thủy hải sản Sài Gòn"
+},
+{
+"symbol": "ARM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Hàng không"
+},
+{
+"symbol": "ART",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Chứng khoán BOS"
+},
+{
+"symbol": "ASG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn ASG"
+},
+{
+"symbol": "ASM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Sao Mai "
+},
+{
+"symbol": "ASP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Dầu khí An Pha"
+},
+{
+"symbol": "AST",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dịch vụ Hàng không Taseco"
+},
+{
+"symbol": "ATA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần NTACO "
+},
+{
+"symbol": "ATG",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần ATG Planet"
+},
+{
+"symbol": "ATS",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần tập đoàn đầu tư ATS"
+},
+{
+"symbol": "AVC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy điện A Vương"
+},
+{
+"symbol": "AVG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phân bón Quốc tế Âu Việt"
+},
+{
+"symbol": "BAB",
+"exchange": "HNX",
+"company_name": "Ngân hàng Thương mại cổ phần Bắc Á"
+},
+{
+"symbol": "BAF",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nông nghiệp BAF Việt Nam"
+},
+{
+"symbol": "BAL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bao bì Bia - Rượu - Nước giải khát"
+},
+{
+"symbol": "BAX",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thống Nhất"
+},
+{
+"symbol": "BBH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bao bì Hoàng Thạch"
+},
+{
+"symbol": "BBM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Nam Định"
+},
+{
+"symbol": "BBS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần VICEM Bao bì Bút Sơn"
+},
+{
+"symbol": "BBT",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Bông Bạch Tuyết"
+},
+{
+"symbol": "BCA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần B.C.H"
+},
+{
+"symbol": "BCB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần 397"
+},
+{
+"symbol": "BCC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xi măng Bỉm Sơn"
+},
+{
+"symbol": "BCE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây dựng và Giao thông Bình Dương"
+},
+{
+"symbol": "BCF",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thực phẩm Bích Chi"
+},
+{
+"symbol": "BCM",
+"exchange": "HOSE",
+"company_name": "Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP"
+},
+{
+"symbol": "BCP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần dược ENLIE"
+},
+{
+"symbol": "BCV",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Du Lịch Và Thương Mại Bằng Giang – Vimico"
+},
+{
+"symbol": "BDG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần may mặc Bình Dương"
+},
+{
+"symbol": "BDT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xây lắp và Vật liệu xây dựng Đồng Tháp"
+},
+{
+"symbol": "BDW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước Bình Định "
+},
+{
+"symbol": "BED",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng"
+},
+{
+"symbol": "BEL",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN ĐIỆN TỬ BIÊN HÒA"
+},
+{
+"symbol": "BFC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phân bón Bình Điền "
+},
+{
+"symbol": "BGE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần BCG Energy"
+},
+{
+"symbol": "BGW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước sạch Bắc Giang"
+},
+{
+"symbol": "BHA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy điện Bắc Hà"
+},
+{
+"symbol": "BHC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bê tông Biên Hòa "
+},
+{
+"symbol": "BHG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chè Biển Hồ"
+},
+{
+"symbol": "BHH",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Bia Hà Nội - Hưng Yên 89"
+},
+{
+"symbol": "BHI",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Bảo hiểm Sài Gòn - Hà Nội"
+},
+{
+"symbol": "BHK",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bia Hà Nội - Kim Bài"
+},
+{
+"symbol": "BHN",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Hà Nội"
+},
+{
+"symbol": "BHP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Hải Phòng"
+},
+{
+"symbol": "BIC",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bảo Hiểm Ngân hàng Đầu tư và Phát triển Việt Nam "
+},
+{
+"symbol": "BID",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam "
+},
+{
+"symbol": "BIG",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Tập Đoàn Đầu Tư BIG"
+},
+{
+"symbol": "BIO",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vắc Xin và Sinh phẩm Nha Trang"
+},
+{
+"symbol": "BKC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Khoáng sản Bắc Kạn "
+},
+{
+"symbol": "BKG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư BKG Việt Nam"
+},
+{
+"symbol": "BLF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy sản Bạc Liêu"
+},
+{
+"symbol": "BLI",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Bảo Hiểm Bảo Long"
+},
+{
+"symbol": "BLN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận tải và dịch vụ Liên Ninh"
+},
+{
+"symbol": "BLT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lương thực Bình Định"
+},
+{
+"symbol": "BMC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Khoáng sản Bình Định"
+},
+{
+"symbol": "BMD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường và Dịch vụ Đô thị Bình Thuận"
+},
+{
+"symbol": "BMF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vật liệu xây dựng và Chất đốt Đồng Nai"
+},
+{
+"symbol": "BMG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần May Bình Minh"
+},
+{
+"symbol": "BMI",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bảo Minh "
+},
+{
+"symbol": "BMJ",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần khoáng sản Miền Đông AHP"
+},
+{
+"symbol": "BMK",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN KỸ THUẬT NHIỆT MÈO ĐEN"
+},
+{
+"symbol": "BMP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần nhựa Bình Minh"
+},
+{
+"symbol": "BMS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng Khoán Bảo Minh"
+},
+{
+"symbol": "BMV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bột mỳ Vinafood 1"
+},
+{
+"symbol": "BNA",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ BẢO NGỌC"
+},
+{
+"symbol": "BNW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nước sạch Bắc Ninh"
+},
+{
+"symbol": "BOT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần BOT Cầu Thái Hà"
+},
+{
+"symbol": "BPC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vicem Bao bì Bỉm sơn"
+},
+{
+"symbol": "BQB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Quảng Bình"
+},
+{
+"symbol": "BQP",
+"exchange": "UPCOM",
+"company_name": "CTCP Nhựa Chất lượng cao Bình Thuận"
+},
+{
+"symbol": "BRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Bến Thành "
+},
+{
+"symbol": "BRR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cao su Bà Rịa"
+},
+{
+"symbol": "BRS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Đô thị Bà Rịa"
+},
+{
+"symbol": "BSA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy Điện Buôn Đôn"
+},
+{
+"symbol": "BSD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bia, Rượu Sài Gòn - Đồng Xuân"
+},
+{
+"symbol": "BSG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xe khách Sài Gòn"
+},
+{
+"symbol": "BSH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Sài Gòn - Hà Nội"
+},
+{
+"symbol": "BSI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán BIDV"
+},
+{
+"symbol": "BSL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Sài Gòn - Sông Lam"
+},
+{
+"symbol": "BSP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Sài Gòn - Phú Thọ"
+},
+{
+"symbol": "BSQ",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bia Sài Gòn - Quảng Ngãi"
+},
+{
+"symbol": "BSR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần - Tổng Công ty Lọc hóa dầu Việt Nam"
+},
+{
+"symbol": "BT1",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần bảo vệ thực vật 1 Trung Ương"
+},
+{
+"symbol": "BT6",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Beton 6"
+},
+{
+"symbol": "BTB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Thái Bình"
+},
+{
+"symbol": "BTD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bê tông Ly tâm Thủ Đức"
+},
+{
+"symbol": "BTG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần bao bì Tiền Giang"
+},
+{
+"symbol": "BTH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội"
+},
+{
+"symbol": "BTN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ Phần Đầu Tư BITCO Bình Định "
+},
+{
+"symbol": "BTP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhiệt điện Bà Rịa"
+},
+{
+"symbol": "BTS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xi măng Vicem Bút Sơn"
+},
+{
+"symbol": "BTT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thương mại - Dịch vụ Bến Thành"
+},
+{
+"symbol": "BTU",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công trình Đô thị Bến Tre"
+},
+{
+"symbol": "BTV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ du lịch Bến Thành"
+},
+{
+"symbol": "BTW",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cấp nước Bến Thành"
+},
+{
+"symbol": "BVB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng TMCP Bản Việt"
+},
+{
+"symbol": "BVG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Group Bắc Việt"
+},
+{
+"symbol": "BVH",
+"exchange": "HOSE",
+"company_name": "Tập đoàn Bảo Việt "
+},
+{
+"symbol": "BVL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần BV Land"
+},
+{
+"symbol": "BVN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bông Việt Nam "
+},
+{
+"symbol": "BVS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Bảo Việt"
+},
+{
+"symbol": "BWA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc "
+},
+{
+"symbol": "BWE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần - Tổng công ty nước - Môi trường Bình Dương"
+},
+{
+"symbol": "BWS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu"
+},
+{
+"symbol": "BXH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vicem Bao bì Hải Phòng"
+},
+{
+"symbol": "C22",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần 22"
+},
+{
+"symbol": "C32",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng 3-2"
+},
+{
+"symbol": "C47",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây dựng 47"
+},
+{
+"symbol": "C4G",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn CIENCO4"
+},
+{
+"symbol": "C69",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Xây dựng 1369"
+},
+{
+"symbol": "C92",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng và Đầu tư 492"
+},
+{
+"symbol": "CAD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chế biến và Xuất nhập khẩu Thủy sản Cadovimex "
+},
+{
+"symbol": "CAG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng An Giang"
+},
+{
+"symbol": "CAN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đồ hộp Hạ Long"
+},
+{
+"symbol": "CAP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Lâm nông sản thực phẩm Yên Bái"
+},
+{
+"symbol": "CAR",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Giáo dục Trí Việt"
+},
+{
+"symbol": "CAT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy sản Cà Mau"
+},
+{
+"symbol": "CBI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Gang thép Cao Bằng"
+},
+{
+"symbol": "CBS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Mía đường Cao Bằng"
+},
+{
+"symbol": "CC1",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Xây dựng Số 1 – CTCP"
+},
+{
+"symbol": "CCA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xuất nhập khẩu Thủy sản Cần Thơ"
+},
+{
+"symbol": "CCC",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN XÂY DỰNG CDC"
+},
+{
+"symbol": "CCI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp Thương mại Củ Chi"
+},
+{
+"symbol": "CCL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long"
+},
+{
+"symbol": "CCM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Khoáng Sản Và Xi Măng Cần Thơ "
+},
+{
+"symbol": "CCP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Cửa Cấm Hải Phòng"
+},
+{
+"symbol": "CCR",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng Cam Ranh "
+},
+{
+"symbol": "CCS",
+"exchange": "UPCOM",
+"company_name": "CTCP Chíp Sáng"
+},
+{
+"symbol": "CCT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Cần Thơ"
+},
+{
+"symbol": "CCV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam"
+},
+{
+"symbol": "CDC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chương Dương"
+},
+{
+"symbol": "CDG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cầu Đuống"
+},
+{
+"symbol": "CDN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng Đà Nẵng"
+},
+{
+"symbol": "CDO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn thiết kế và phát triển đô thị"
+},
+{
+"symbol": "CDP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược phẩm Trung ương Codupha"
+},
+{
+"symbol": "CDR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng Cao su Đồng Nai"
+},
+{
+"symbol": "CEN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần CENCON Việt Nam"
+},
+{
+"symbol": "CEO",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập Đoàn C.E.O"
+},
+{
+"symbol": "CET",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN HTC HOLDING"
+},
+{
+"symbol": "CFM",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần CFM Private Equity"
+},
+{
+"symbol": "CFV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cà phê Thắng Lợi"
+},
+{
+"symbol": "CGV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vinaceglass"
+},
+{
+"symbol": "CH5",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần xây dựng số 5 Hà Nội"
+},
+{
+"symbol": "CHC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cẩm Hà"
+},
+{
+"symbol": "CHP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện miền Trung"
+},
+{
+"symbol": "CHS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chiếu sáng công cộng Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "CI5",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng số 5"
+},
+{
+"symbol": "CIA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dịch vụ Sân bay Quốc tế Cam Ranh"
+},
+{
+"symbol": "CID",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng và phát triển cơ sở hạ tầng"
+},
+{
+"symbol": "CIG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần COMA18"
+},
+{
+"symbol": "CII",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh "
+},
+{
+"symbol": "CIP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây lắp và Sản xuất công nghiệp"
+},
+{
+"symbol": "CJC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cơ điện Miền Trung (CEMC)"
+},
+{
+"symbol": "CK8",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ Khí 120"
+},
+{
+"symbol": "CKA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cơ Khí An Giang"
+},
+{
+"symbol": "CKD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cơ khí Đông Anh Licogi"
+},
+{
+"symbol": "CKG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn CIC"
+},
+{
+"symbol": "CKV",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần COKYVINA "
+},
+{
+"symbol": "CLC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cát Lợi"
+},
+{
+"symbol": "CLH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần xi măng La Hiên - VVMI"
+},
+{
+"symbol": "CLI",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn CNCTech"
+},
+{
+"symbol": "CLL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cảng Cát Lái"
+},
+{
+"symbol": "CLM",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Xuất nhập khẩu Than - Vinacomin"
+},
+{
+"symbol": "CLW",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cấp nước Chợ Lớn "
+},
+{
+"symbol": "CLX",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xuất nhập khẩu và đầu tư Chợ Lớn (Cholimex)"
+},
+{
+"symbol": "CMC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư CMC "
+},
+{
+"symbol": "CMD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vật liệu Xây dựng và Trang trí nội thất Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "CMF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thực phẩm Cholimex"
+},
+{
+"symbol": "CMG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Công nghệ CMC"
+},
+{
+"symbol": "CMI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần CMISTONE Việt Nam"
+},
+{
+"symbol": "CMK",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cơ khí Mạo Khê - Vinacomin "
+},
+{
+"symbol": "CMM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Camimex"
+},
+{
+"symbol": "CMN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lương thực thực phẩm Colusa - Miliket"
+},
+{
+"symbol": "CMP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Chân Mây"
+},
+{
+"symbol": "CMS",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn CMH Việt Nam"
+},
+{
+"symbol": "CMT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghệ Mạng và Truyền thông"
+},
+{
+"symbol": "CMV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thương Nghiệp Cà Mau"
+},
+{
+"symbol": "CMW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cấp nước Cà Mau"
+},
+{
+"symbol": "CMX",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Camimex Group"
+},
+{
+"symbol": "CNA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tổng công ty Chè Nghệ An"
+},
+{
+"symbol": "CNC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần công nghệ cao Traphaco"
+},
+{
+"symbol": "CNG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần CNG Việt Nam"
+},
+{
+"symbol": "CNN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO"
+},
+{
+"symbol": "CNT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn CNT"
+},
+{
+"symbol": "COM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vật Tư - Xăng Dầu"
+},
+{
+"symbol": "CPA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cà phê Phước An"
+},
+{
+"symbol": "CPC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thuốc sát trùng Cần Thơ"
+},
+{
+"symbol": "CPH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Phục vụ mai táng Hải Phòng"
+},
+{
+"symbol": "CPI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Cảng Cái Lân"
+},
+{
+"symbol": "CQN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cảng Quảng Ninh"
+},
+{
+"symbol": "CQT",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Xi Măng Quán Triều VVMI"
+},
+{
+"symbol": "CRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Create Capital Việt Nam"
+},
+{
+"symbol": "CRE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bất động sản Thế kỷ"
+},
+{
+"symbol": "CRV",
+"exchange": "HOSE",
+"company_name": "CTCP Tập đoàn Bất động sản CRV"
+},
+{
+"symbol": "CSC",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn COTANA"
+},
+{
+"symbol": "CSI",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Chứng Khoán Kirin"
+},
+{
+"symbol": "CSM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công nghiệp Cao su Miền Nam"
+},
+{
+"symbol": "CST",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Than Cao Sơn - TKV"
+},
+{
+"symbol": "CSV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần hóa chất cơ bản Miền Nam "
+},
+{
+"symbol": "CT3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng công trình 3"
+},
+{
+"symbol": "CT6",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công trình 6"
+},
+{
+"symbol": "CTB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chế tạo Bơm Hải Dương "
+},
+{
+"symbol": "CTD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây dựng Coteccons"
+},
+{
+"symbol": "CTF",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Ô Tô Bình Triệu"
+},
+{
+"symbol": "CTG",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam"
+},
+{
+"symbol": "CTI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO"
+},
+{
+"symbol": "CTP",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn CTP Group"
+},
+{
+"symbol": "CTR",
+"exchange": "HOSE",
+"company_name": "Tổng công ty cổ phần công trình Viettel"
+},
+{
+"symbol": "CTS",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Chứng Khoán VietinBank"
+},
+{
+"symbol": "CTT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần chế tạo máy - VINACOMIN"
+},
+{
+"symbol": "CTW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước Cần Thơ"
+},
+{
+"symbol": "CTX",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Đầu tư xây dựng và Thương mại Việt Nam"
+},
+{
+"symbol": "CVN",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN VINAM"
+},
+{
+"symbol": "CVT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần CMC"
+},
+{
+"symbol": "CX8",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Xây lắp Contrexim số 8 "
+},
+{
+"symbol": "D11",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Địa ốc 11"
+},
+{
+"symbol": "D2D",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2 "
+},
+{
+"symbol": "DAC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần 382 Đông Anh"
+},
+{
+"symbol": "DAD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển giáo dục Đà Nẵng "
+},
+{
+"symbol": "DAE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách Giáo Dục tại TP Đà Nẵng"
+},
+{
+"symbol": "DAG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn Nhựa Đông Á"
+},
+{
+"symbol": "DAH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn Khách sạn Đông Á"
+},
+{
+"symbol": "DAS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng"
+},
+{
+"symbol": "DAT",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Du lịch và Phát triển Thuỷ sản"
+},
+{
+"symbol": "DBC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Dabaco Việt Nam"
+},
+{
+"symbol": "DBD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định (Bidiphar)"
+},
+{
+"symbol": "DBM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược - Vật tư y tế Đăk Lăk "
+},
+{
+"symbol": "DBT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược phẩm Bến Tre"
+},
+{
+"symbol": "DC1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Xây dựng số 1"
+},
+{
+"symbol": "DC2",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư phát triển - Xây dựng (DIC) số 2"
+},
+{
+"symbol": "DC4",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dicera Holdings"
+},
+{
+"symbol": "DCF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng và Thiết kế Số 1"
+},
+{
+"symbol": "DCG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tổng Công ty May Đáp Cầu"
+},
+{
+"symbol": "DCH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Địa chính Hà Nội"
+},
+{
+"symbol": "DCL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược phẩm Cửu Long "
+},
+{
+"symbol": "DCM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phân Bón Dầu khí Cà Mau"
+},
+{
+"symbol": "DCR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Gạch Men Cosevco"
+},
+{
+"symbol": "DCS",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Tập Đoàn EDX"
+},
+{
+"symbol": "DCT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tấm lợp Vật liệu Xây dựng Đồng Nai "
+},
+{
+"symbol": "DCV",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu CTCP Quản lý quỹ Đầu tư Dragon Capital Việt Nam"
+},
+{
+"symbol": "DDB",
+"exchange": "UPCOM",
+"company_name": "CTCP Thương mại và Xây dựng Đông Dương"
+},
+{
+"symbol": "DDG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương"
+},
+{
+"symbol": "DDH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đảm bảo giao thông đường thủy Hải Phòng"
+},
+{
+"symbol": "DDM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hàng hải Đông Đô "
+},
+{
+"symbol": "DDN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược - Thiết bị y tế Đà Nẵng (DDN)"
+},
+{
+"symbol": "DDV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần DAP - VINACHEM"
+},
+{
+"symbol": "DFC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xích Líp Đông Anh"
+},
+{
+"symbol": "DFF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn đua FAT"
+},
+{
+"symbol": "DGC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn Hóa chất Đức Giang"
+},
+{
+"symbol": "DGT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công trình giao thông Đồng Nai"
+},
+{
+"symbol": "DGW",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thế giới Số"
+},
+{
+"symbol": "DHA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Hoá An"
+},
+{
+"symbol": "DHB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc"
+},
+{
+"symbol": "DHC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đông Hải Bến Tre "
+},
+{
+"symbol": "DHD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược Vật tư Y tế Hải Dương"
+},
+{
+"symbol": "DHG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược Hậu Giang"
+},
+{
+"symbol": "DHM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại DHM"
+},
+{
+"symbol": "DHN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược phẩm Hà Nội"
+},
+{
+"symbol": "DHP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Điện Cơ Hải Phòng"
+},
+{
+"symbol": "DHT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược phẩm Hà Tây "
+},
+{
+"symbol": "DIC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại DIC "
+},
+{
+"symbol": "DID",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần DIC-Đồng Tiến "
+},
+{
+"symbol": "DIG",
+"exchange": "HOSE",
+"company_name": "Tổng công ty Đầu tư phát triển Xây dựng"
+},
+{
+"symbol": "DIH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Xây dựng Hội An"
+},
+{
+"symbol": "DKC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chợ Lạng Sơn"
+},
+{
+"symbol": "DKG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn DamiK"
+},
+{
+"symbol": "DL1",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần tập đoàn Alpha Seven"
+},
+{
+"symbol": "DLD",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Du Lịch Đắk Lắk"
+},
+{
+"symbol": "DLG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Đức Long Gia Lai"
+},
+{
+"symbol": "DLR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Địa ốc Đà Lạt "
+},
+{
+"symbol": "DLT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần du lịch và thương mại - VINACOMIN"
+},
+{
+"symbol": "DM7",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dệt May 7"
+},
+{
+"symbol": "DMC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Y tế Domesco"
+},
+{
+"symbol": "DMN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần DOMENAL"
+},
+{
+"symbol": "DMX",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Điện Máy Xanh"
+},
+{
+"symbol": "DNA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Điện nước An Giang"
+},
+{
+"symbol": "DNC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Điện nước lắp máy Hải Phòng"
+},
+{
+"symbol": "DND",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai"
+},
+{
+"symbol": "DNE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường Đô thị Đà Nẵng"
+},
+{
+"symbol": "DNH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi"
+},
+{
+"symbol": "DNL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Logistic Cảng Đà Nẵng "
+},
+{
+"symbol": "DNM",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Y tế Danameco "
+},
+{
+"symbol": "DNN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Đà Nẵng"
+},
+{
+"symbol": "DNP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần DNP Holding"
+},
+{
+"symbol": "DNT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch Đồng Nai"
+},
+{
+"symbol": "DNW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Đồng Nai"
+},
+{
+"symbol": "DOC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vật tư nông nghiệp Đồng Nai"
+},
+{
+"symbol": "DOP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải Xăng dầu Đồng Tháp "
+},
+{
+"symbol": "DP1",
+"exchange": "UPCOM",
+"company_name": "CTCP Dược Phẩm Trung ương CPC1"
+},
+{
+"symbol": "DP2",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược phẩm Trung ương 2"
+},
+{
+"symbol": "DP3",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược phẩm Trung ương 3"
+},
+{
+"symbol": "DPC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần nhựa Đà Nẵng"
+},
+{
+"symbol": "DPG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Đạt Phương"
+},
+{
+"symbol": "DPH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược phẩm Hải Phòng"
+},
+{
+"symbol": "DPM",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Phân bón và Hóa chất dầu khí"
+},
+{
+"symbol": "DPP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược Đồng Nai "
+},
+{
+"symbol": "DPR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Đồng Phú"
+},
+{
+"symbol": "DQC",
+"exchange": "HOSE",
+"company_name": "CTCP Tập đoàn Điện Quang"
+},
+{
+"symbol": "DRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao Su Đà Nẵng"
+},
+{
+"symbol": "DRG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phân cao su Đắk Lắk"
+},
+{
+"symbol": "DRH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần DRH Holdings"
+},
+{
+"symbol": "DRI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư cao su Đắk Lắk"
+},
+{
+"symbol": "DRL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy Điện - Điện lực 3"
+},
+{
+"symbol": "DS3",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Quản lý Đường sông số 3"
+},
+{
+"symbol": "DSC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần chứng khoán DSC"
+},
+{
+"symbol": "DSD",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN DHC SUỐI ĐÔI"
+},
+{
+"symbol": "DSE",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Chứng khoán DNSE"
+},
+{
+"symbol": "DSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kính Đáp Cầu"
+},
+{
+"symbol": "DSH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đông Sơn Holdings"
+},
+{
+"symbol": "DSN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công viên nước Đầm Sen"
+},
+{
+"symbol": "DSP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Du lịch Phú Thọ"
+},
+{
+"symbol": "DST",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Sao Thăng Long"
+},
+{
+"symbol": "DTA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đệ Tam"
+},
+{
+"symbol": "DTC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Viglacera Đông Triều"
+},
+{
+"symbol": "DTD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Thành Đạt"
+},
+{
+"symbol": "DTG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược phẩm Tipharco"
+},
+{
+"symbol": "DTH",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN ĐƯỢC VẬT TƯ Y TẾ THANH HÓA"
+},
+{
+"symbol": "DTI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Đức Trung"
+},
+{
+"symbol": "DTK",
+"exchange": "HNX",
+"company_name": "Tổng công ty Điện lực TKV - CTCP"
+},
+{
+"symbol": "DTL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đại Thiên Lộc "
+},
+{
+"symbol": "DTP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược phẩm CPC1 Hà Nội"
+},
+{
+"symbol": "DTR",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Đông Tây Land"
+},
+{
+"symbol": "DTT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Kỹ nghệ Đô Thành "
+},
+{
+"symbol": "DUS",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN DỊCH VỤ ĐÔ THỊ ĐÀ LẠT"
+},
+{
+"symbol": "DVC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại dịch vụ tổng hợp Cảng Hải Phòng "
+},
+{
+"symbol": "DVG",
+"exchange": "UPCOM",
+"company_name": "CTCP TẬP ĐOÀN SƠN ĐẠI VIỆT"
+},
+{
+"symbol": "DVM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần dược liệu Việt Nam"
+},
+{
+"symbol": "DVN",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Dược Việt Nam - CTCP"
+},
+{
+"symbol": "DVP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển cảng Đình Vũ"
+},
+{
+"symbol": "DVW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai"
+},
+{
+"symbol": "DWC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Đắk Lắk"
+},
+{
+"symbol": "DWS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước và Môi trường đô thị Đồng Tháp"
+},
+{
+"symbol": "DXG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bluemarq Group"
+},
+{
+"symbol": "DXL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn "
+},
+{
+"symbol": "DXP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng Đoạn Xá"
+},
+{
+"symbol": "DXS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh"
+},
+{
+"symbol": "DXV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần ViCem Vật liệu xây dựng Đà Nẵng"
+},
+{
+"symbol": "E12",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐIỆN VNECO12"
+},
+{
+"symbol": "E29",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Kỹ thuật 29"
+},
+{
+"symbol": "EBS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách Giáo Dục tại TP Hà Nội"
+},
+{
+"symbol": "ECI",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn ECI"
+},
+{
+"symbol": "EFI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư tài chính giáo dục"
+},
+{
+"symbol": "EGL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường đô thị Gia Lâm"
+},
+{
+"symbol": "EIB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam"
+},
+{
+"symbol": "EIC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần EVN Quốc tế"
+},
+{
+"symbol": "EID",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển giáo dục Hà Nội"
+},
+{
+"symbol": "EIN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực"
+},
+{
+"symbol": "ELC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công nghệ - viễn thông ELCOM"
+},
+{
+"symbol": "EME",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Điện Cơ"
+},
+{
+"symbol": "EMG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ Phần Thiết Bị Phụ Tùng Cơ điện"
+},
+{
+"symbol": "EMS",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Chuyển phát nhanh Bưu điện – Công ty cổ phần"
+},
+{
+"symbol": "EVE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Everpia"
+},
+{
+"symbol": "EVF",
+"exchange": "HOSE",
+"company_name": "Công ty Tài chính Tổng hợp Cổ phần Điện lực"
+},
+{
+"symbol": "EVG",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn Everland"
+},
+{
+"symbol": "EVS",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Chứng Khoán EVS – Chi Nhánh Nguyễn Trãi"
+},
+{
+"symbol": "F88",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư F88"
+},
+{
+"symbol": "FBC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ khí Phổ Yên"
+},
+{
+"symbol": "FCC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Liên Hợp Thực Phẩm"
+},
+{
+"symbol": "FCM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bê tông Phan Vũ Hà Nam "
+},
+{
+"symbol": "FCN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần FECON"
+},
+{
+"symbol": "FCS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Lương thực thành phố Hồ Chí Minh"
+},
+{
+"symbol": "FDC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "FGL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cà phê Gia Lai"
+},
+{
+"symbol": "FHN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xuất nhập khẩu Lương thực - Thực phẩm Hà Nội"
+},
+{
+"symbol": "FHS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Phát hành sách thành phố Hồ Chí Minh - FAHASA"
+},
+{
+"symbol": "FIC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Vật liệu Xây dựng số 1 – Công ty cổ phần"
+},
+{
+"symbol": "FID",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần đầu tư và phát triển doanh nghiệp Việt Nam "
+},
+{
+"symbol": "FIR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Địa ốc First Real"
+},
+{
+"symbol": "FIT",
+"exchange": "HOSE",
+"company_name": "CTCP Tập đoàn F.I.T"
+},
+{
+"symbol": "FMC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thực phẩm Sao Ta "
+},
+{
+"symbol": "FOC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dịch vụ Trực tuyến FPT"
+},
+{
+"symbol": "FOX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Viễn thông FPT"
+},
+{
+"symbol": "FPT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần FPT"
+},
+{
+"symbol": "FRC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam"
+},
+{
+"symbol": "FRM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lâm nghiệp Sài Gòn"
+},
+{
+"symbol": "FRT",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Bán lẻ Kỹ thuật số FPT"
+},
+{
+"symbol": "FSO",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cơ khí đóng tàu thủy sản Việt Nam"
+},
+{
+"symbol": "FT1",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Phụ tùng máy số 1"
+},
+{
+"symbol": "FTI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị"
+},
+{
+"symbol": "FTM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Đức Quân"
+},
+{
+"symbol": "FTS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán FPT"
+},
+{
+"symbol": "G20",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Dệt may Vĩnh Phúc"
+},
+{
+"symbol": "G36",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty 36 - CTCP"
+},
+{
+"symbol": "GAS",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Khí Việt Nam - CTCP"
+},
+{
+"symbol": "GCB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Petec Bình Định"
+},
+{
+"symbol": "GCF",
+"exchange": "UPCOM",
+"company_name": "CTCP Thực phẩm G.C"
+},
+{
+"symbol": "GDA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tôn Đông Á"
+},
+{
+"symbol": "GDH",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Tập đoàn GDC"
+},
+{
+"symbol": "GDT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chế biến Gỗ Đức Thành "
+},
+{
+"symbol": "GDW",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cấp nước Gia Định"
+},
+{
+"symbol": "GEE",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Điện lực Gelex"
+},
+{
+"symbol": "GEG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Điện Gia Lai"
+},
+{
+"symbol": "GEL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Hạ tầng GELEX"
+},
+{
+"symbol": "GER",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thể thao Ngôi sao Geru"
+},
+{
+"symbol": "GEX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Gelex"
+},
+{
+"symbol": "GGG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Ô tô Giải Phóng"
+},
+{
+"symbol": "GH3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công trình Giao thông Hà Nội"
+},
+{
+"symbol": "GHC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện Gia Lai"
+},
+{
+"symbol": "GIC",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN VSC GREEN LOGISTICS"
+},
+{
+"symbol": "GIL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sản Xuất Kinh Doanh Xuất Nhập Khẩu Bình Thạnh"
+},
+{
+"symbol": "GKM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần GKM Holdings"
+},
+{
+"symbol": "GLC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vàng Lào Cai"
+},
+{
+"symbol": "GLT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Kỹ thuật điện toàn cầu"
+},
+{
+"symbol": "GLW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp thoát nước Gia Lai"
+},
+{
+"symbol": "GMA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần G-AUTOMOBILE"
+},
+{
+"symbol": "GMC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Garmex Sài Gòn"
+},
+{
+"symbol": "GMD",
+"exchange": "HOSE",
+"company_name": "Công Ty TNHH Vận Tải Và Công Nghiệp Hàng Hải Gemadept Holding"
+},
+{
+"symbol": "GMH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Minh Hưng Quảng Trị"
+},
+{
+"symbol": "GMX",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Gạch Ngói Gốm Xây dựng Mỹ Xuân"
+},
+{
+"symbol": "GND",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Gạch ngói Đồng Nai"
+},
+{
+"symbol": "GPC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn Green+"
+},
+{
+"symbol": "GSM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy điện Hương Sơn"
+},
+{
+"symbol": "GSP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải Sản Phẩm khí Quốc Tế"
+},
+{
+"symbol": "GTA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần chế biến gỗ Thuận An"
+},
+{
+"symbol": "GTD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Giầy Thượng Đình"
+},
+{
+"symbol": "GTS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công trình Giao thông Sài Gòn"
+},
+{
+"symbol": "GTT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thuận Thảo "
+},
+{
+"symbol": "GTX",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Global Tanker"
+},
+{
+"symbol": "GVR",
+"exchange": "HOSE",
+"company_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty cổ phần"
+},
+{
+"symbol": "GVT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Giấy Việt Trì"
+},
+{
+"symbol": "H11",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng HUD101"
+},
+{
+"symbol": "HAC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Chứng khoán Hải Phòng"
+},
+{
+"symbol": "HAD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Hải Dương"
+},
+{
+"symbol": "HAF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thực phẩm Hà Nội"
+},
+{
+"symbol": "HAG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Hoàng Anh Gia Lai"
+},
+{
+"symbol": "HAH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải và xếp dỡ Hải An "
+},
+{
+"symbol": "HAM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vật tư Hậu Giang"
+},
+{
+"symbol": "HAN",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Xây dựng Hà Nội – CTCP"
+},
+{
+"symbol": "HAP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn HAPACO"
+},
+{
+"symbol": "HAR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền"
+},
+{
+"symbol": "HAS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Hacisco"
+},
+{
+"symbol": "HAT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại Bia Hà Nội "
+},
+{
+"symbol": "HAV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Rượu Hapro"
+},
+{
+"symbol": "HAX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh"
+},
+{
+"symbol": "HBC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn Xây dựng Hòa Bình"
+},
+{
+"symbol": "HBD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bao bì PP Bình Dương"
+},
+{
+"symbol": "HBH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Habeco - Hải Phòng"
+},
+{
+"symbol": "HBS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Hòa Bình"
+},
+{
+"symbol": "HC1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng số 1 Hà Nội"
+},
+{
+"symbol": "HC3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng số 3 Hải Phòng"
+},
+{
+"symbol": "HCC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bê tông Hòa Cẩm - Intimex"
+},
+{
+"symbol": "HCD",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Sản xuất và Thương mại HCD"
+},
+{
+"symbol": "HCI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư - Xây dựng Hà Nội "
+},
+{
+"symbol": "HCM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "HCT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại - Dịch vụ - Vận tải xi măng Hải Phòng"
+},
+{
+"symbol": "HD2",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Phát triển nhà HUD2"
+},
+{
+"symbol": "HD6",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần đầu tư và phát triển Nhà số 6 Hà Nội"
+},
+{
+"symbol": "HD8",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư phát triển nhà và đô thị HUD8"
+},
+{
+"symbol": "HDA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Hãng sơn Đông Á"
+},
+{
+"symbol": "HDB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "HDC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu"
+},
+{
+"symbol": "HDG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Hà Đô"
+},
+{
+"symbol": "HDM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dệt - May Huế "
+},
+{
+"symbol": "HDP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược Hà Tĩnh"
+},
+{
+"symbol": "HDW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kinh doanh Nước sạch Hải Dương"
+},
+{
+"symbol": "HEC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tư vấn Xây dựng Thủy Lợi II"
+},
+{
+"symbol": "HEJ",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Tư vấn Xây dựng Thủy Lợi Việt Nam - CTCP"
+},
+{
+"symbol": "HEP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường và Công trình đô thị Huế"
+},
+{
+"symbol": "HES",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dịch vụ Giải trí Hà Nội"
+},
+{
+"symbol": "HEV",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách Đại học - Dạy nghề"
+},
+{
+"symbol": "HFB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "HFC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xăng dầu HFC"
+},
+{
+"symbol": "HFX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà "
+},
+{
+"symbol": "HGM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cơ khí và Khoáng sản Hà Giang "
+},
+{
+"symbol": "HGT",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN DU LỊCH HƯƠNG GIANG"
+},
+{
+"symbol": "HHB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Hồng Hà"
+},
+{
+"symbol": "HHC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bánh kẹo Hải Hà"
+},
+{
+"symbol": "HHG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hoàng Hà "
+},
+{
+"symbol": "HHN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận tải và Dịch vụ hàng hóa Hà Nội"
+},
+{
+"symbol": "HHP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần HHP Global"
+},
+{
+"symbol": "HHS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư - Dịch vụ Hoàng Huy "
+},
+{
+"symbol": "HHV",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Hạ tầng Giao thông Đèo Cả"
+},
+{
+"symbol": "HID",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Halcom Việt Nam"
+},
+{
+"symbol": "HII",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần An Tiến Industries"
+},
+{
+"symbol": "HIO",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Helio Energy"
+},
+{
+"symbol": "HJC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hòa Việt "
+},
+{
+"symbol": "HJS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thủy điện Nậm Mu "
+},
+{
+"symbol": "HKB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần nông nghiệp và thực phẩm Hà Nội - Kinh Bắc "
+},
+{
+"symbol": "HKT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần QP Holdings"
+},
+{
+"symbol": "HLA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hữu Liên Á Châu"
+},
+{
+"symbol": "HLB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia và Nước giải khát Hạ Long"
+},
+{
+"symbol": "HLC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Than Hà Lầm - Vinacomin"
+},
+{
+"symbol": "HLD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND"
+},
+{
+"symbol": "HLO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghệ Ha Lô"
+},
+{
+"symbol": "HLS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn"
+},
+{
+"symbol": "HLT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dệt may Hoàng Thị Loan"
+},
+{
+"symbol": "HLY",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần gốm xây dựng Yên Hưng"
+},
+{
+"symbol": "HMC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - VNSTEEL"
+},
+{
+"symbol": "HMD",
+"exchange": "UPCOM",
+"company_name": "CONG TY CỔ PHẦN HÓA CHẤT MINH ĐỨC"
+},
+{
+"symbol": "HMG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần kim khí Hà Nội - VNSTEEL"
+},
+{
+"symbol": "HMH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Hải Minh "
+},
+{
+"symbol": "HMR",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Đá Hoàng Mai"
+},
+{
+"symbol": "HMS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xây dựng bảo tàng Hồ Chí Minh"
+},
+{
+"symbol": "HNA",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Thủy điện Hủa Na"
+},
+{
+"symbol": "HNB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bến xe Hà Nội "
+},
+{
+"symbol": "HND",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nhiệt điện Hải Phòng"
+},
+{
+"symbol": "HNF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thực phẩm Hữu Nghị "
+},
+{
+"symbol": "HNG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai"
+},
+{
+"symbol": "HNI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần May Hữu Nghị"
+},
+{
+"symbol": "HNM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sữa Hà Nội"
+},
+{
+"symbol": "HNP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Hanel Xốp nhựa"
+},
+{
+"symbol": "HNR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Rượu và Nước giải khát Hà Nội"
+},
+{
+"symbol": "HOM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xi măng Vicem Hoàng Mai"
+},
+{
+"symbol": "HOT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch-Dịch vụ Hội An"
+},
+{
+"symbol": "HPA",
+"exchange": "HOSE",
+"company_name": "CTCP Phát triển Nông nghiệp Hòa Phát"
+},
+{
+"symbol": "HPB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bao bì PP"
+},
+{
+"symbol": "HPD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần thủy điện Đăk Đoa"
+},
+{
+"symbol": "HPG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Hòa Phát"
+},
+{
+"symbol": "HPH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc"
+},
+{
+"symbol": "HPI",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần khu công nghiệp Hiệp Phước"
+},
+{
+"symbol": "HPO",
+"exchange": "UPCOM",
+"company_name": "CTCP Công nghiệp Hapulico"
+},
+{
+"symbol": "HPP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sơn Hải Phòng "
+},
+{
+"symbol": "HPT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT "
+},
+{
+"symbol": "HPW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Hải Phòng"
+},
+{
+"symbol": "HPX",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Hải Phát"
+},
+{
+"symbol": "HQC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tư vấn - Thương mại - Dịch vụ Địa ốc Hoàng Quân"
+},
+{
+"symbol": "HRB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Harec Đầu tư và Thương Mại"
+},
+{
+"symbol": "HRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Hòa Bình"
+},
+{
+"symbol": "HSA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hestia"
+},
+{
+"symbol": "HSG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Hoa Sen"
+},
+{
+"symbol": "HSL",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THỰC PHẨM HỒNG HÀ"
+},
+{
+"symbol": "HSM",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Dệt May Hà Nội"
+},
+{
+"symbol": "HSP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Sơn Tổng hợp Hà Nội"
+},
+{
+"symbol": "HSV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Gang thép Hà Nội"
+},
+{
+"symbol": "HT1",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần xi măng VICEM Hà Tiên"
+},
+{
+"symbol": "HTC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại Hóc Môn"
+},
+{
+"symbol": "HTE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Kinh doanh điện lực Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "HTG",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Dệt may Hòa Thọ"
+},
+{
+"symbol": "HTI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Hạ tầng IDICO"
+},
+{
+"symbol": "HTL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long"
+},
+{
+"symbol": "HTM",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Thương Mại Hà Nội - Công ty cổ phần"
+},
+{
+"symbol": "HTN",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Hưng Thịnh Incons"
+},
+{
+"symbol": "HTP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần In sách Giáo Khoa Hòa Phát"
+},
+{
+"symbol": "HTT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại Hà Tây"
+},
+{
+"symbol": "HTV",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Logistics Vicem"
+},
+{
+"symbol": "HU1",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD1"
+},
+{
+"symbol": "HU3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD3"
+},
+{
+"symbol": "HU4",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD4"
+},
+{
+"symbol": "HU6",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị HUD6"
+},
+{
+"symbol": "HUB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây lắp Thừa Thiên Huế"
+},
+{
+"symbol": "HUG",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty May Hưng Yên - Công ty Cổ phần"
+},
+{
+"symbol": "HUT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần TASCO "
+},
+{
+"symbol": "HVA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư HVA"
+},
+{
+"symbol": "HVH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư và Công nghệ HVC"
+},
+{
+"symbol": "HVN",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Hàng không Việt Nam - CTCP"
+},
+{
+"symbol": "HVT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Hóa chất Việt Trì"
+},
+{
+"symbol": "HVX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần xi măng Vicem Hải Vân "
+},
+{
+"symbol": "HWS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Huế"
+},
+{
+"symbol": "IBD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần In Tổng hợp Bình Dương"
+},
+{
+"symbol": "ICC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xây dựng Công nghiệp"
+},
+{
+"symbol": "ICF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Thương mại Thủy sản "
+},
+{
+"symbol": "ICG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây dựng sông Hồng "
+},
+{
+"symbol": "ICI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp"
+},
+{
+"symbol": "ICN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu Tư Xây Dựng Dầu Khí IDICO "
+},
+{
+"symbol": "ICT",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Viễn thông - Tin học Bưu điện"
+},
+{
+"symbol": "IDC",
+"exchange": "HNX",
+"company_name": "Tổng Công ty IDICO - CTCP"
+},
+{
+"symbol": "IDI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia (IDI)"
+},
+{
+"symbol": "IDJ",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Đầu tư IDJ Việt Nam"
+},
+{
+"symbol": "IDP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sữa Quốc tế Lof"
+},
+{
+"symbol": "IDV",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phát triển hạ tầng Vĩnh Phúc"
+},
+{
+"symbol": "IFS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thực phẩm Quốc Tế"
+},
+{
+"symbol": "IJC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật"
+},
+{
+"symbol": "ILA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần ILA"
+},
+{
+"symbol": "ILB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần ICD Tân Cảng - Long Bình"
+},
+{
+"symbol": "ILC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hợp tác lao động với nước ngoài"
+},
+{
+"symbol": "ILS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế"
+},
+{
+"symbol": "IME",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp "
+},
+{
+"symbol": "IMP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần dược phẩm Imexpharm"
+},
+{
+"symbol": "IN4",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần In số 4"
+},
+{
+"symbol": "INC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tư vấn Đầu tư IDICO"
+},
+{
+"symbol": "INN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bao bì và In nông nghiệp "
+},
+{
+"symbol": "IPA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn đầu tư I.P.A"
+},
+{
+"symbol": "IRC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cao su Công nghiệp"
+},
+{
+"symbol": "ISG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải biển và Hợp tác lao động quốc tế"
+},
+{
+"symbol": "ISH",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Thủy Điện Srok Phu Miêng IDICO"
+},
+{
+"symbol": "IST",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần ICD Tân Cảng Sóng Thần"
+},
+{
+"symbol": "ITA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo "
+},
+{
+"symbol": "ITC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư - Kinh doanh nhà"
+},
+{
+"symbol": "ITD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công nghệ ITD"
+},
+{
+"symbol": "ITQ",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Thiên Quang"
+},
+{
+"symbol": "ITS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin"
+},
+{
+"symbol": "IVS",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Chứng Khoán Guotai Haitong (Việt Nam) – Chi Nhánh Hồ Chí Minh"
+},
+{
+"symbol": "JOS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải"
+},
+{
+"symbol": "JVC",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Đầu Tư Và Phát Triển Y Tế Việt Nhật"
+},
+{
+"symbol": "KAI",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Chứng khoán KAFI"
+},
+{
+"symbol": "KBC",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP"
+},
+{
+"symbol": "KCB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Khoáng Sản Luyện Kim Cao Bằng"
+},
+{
+"symbol": "KDC",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN KIDO "
+},
+{
+"symbol": "KDH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Điền"
+},
+{
+"symbol": "KDM",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần tập đoàn GCL"
+},
+{
+"symbol": "KGM",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xuất nhập khẩu Kiên Giang"
+},
+{
+"symbol": "KHD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần khai thác, chế biến khoáng sản Hải Dương"
+},
+{
+"symbol": "KHG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Khải Hoàn Land"
+},
+{
+"symbol": "KHP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Điện lực Khánh Hòa"
+},
+{
+"symbol": "KHS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Kiên Hùng"
+},
+{
+"symbol": "KHW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp thoát nước Khánh Hòa"
+},
+{
+"symbol": "KHX",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Phát hành sách Khánh Hòa"
+},
+{
+"symbol": "KIP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần K.I.P Việt Nam"
+},
+{
+"symbol": "KKC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Thành Thái"
+},
+{
+"symbol": "KLB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Kiên Long"
+},
+{
+"symbol": "KMR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Mirae "
+},
+{
+"symbol": "KMT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Kim khí Miền Trung "
+},
+{
+"symbol": "KOS",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Kosy"
+},
+{
+"symbol": "KPF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần đầu tư tài sản Koji"
+},
+{
+"symbol": "KSB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương"
+},
+{
+"symbol": "KSD",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Đầu tư DNA"
+},
+{
+"symbol": "KSF",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn Sunshine"
+},
+{
+"symbol": "KSQ",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần CNC Capital Việt Nam"
+},
+{
+"symbol": "KST",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần KASATI"
+},
+{
+"symbol": "KSV",
+"exchange": "HNX",
+"company_name": "Tổng công ty Khoáng sản TKV - CTCP"
+},
+{
+"symbol": "KTC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại Kiên Giang"
+},
+{
+"symbol": "KTL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần kim khí Thăng Long "
+},
+{
+"symbol": "KTS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đường Kon Tum "
+},
+{
+"symbol": "KTT",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ KTT"
+},
+{
+"symbol": "KVC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần sản xuất xuất nhập khẩu INOX Kim vĩ"
+},
+{
+"symbol": "L10",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần LILAMA 10"
+},
+{
+"symbol": "L12",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Licogi 12"
+},
+{
+"symbol": "L14",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Licogi 14"
+},
+{
+"symbol": "L18",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng số 18"
+},
+{
+"symbol": "L35",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ khí lắp máy LILAMA"
+},
+{
+"symbol": "L40",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng 40 "
+},
+{
+"symbol": "L43",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 45.3"
+},
+{
+"symbol": "L45",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Lilama 45.1"
+},
+{
+"symbol": "L61",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần LILAMA 69-1"
+},
+{
+"symbol": "L62",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 69-2"
+},
+{
+"symbol": "L63",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 69-3"
+},
+{
+"symbol": "LAF",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chế biến hàng xuất khẩu Long An"
+},
+{
+"symbol": "LAI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư xây dựng Long An IDICO "
+},
+{
+"symbol": "LAS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Supe Phốt phát và Hóa chất Lâm Thao"
+},
+{
+"symbol": "LAW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước Long An"
+},
+{
+"symbol": "LBE",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ LVA"
+},
+{
+"symbol": "LBM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Khoáng sản và Vật liệu Xây dựng Lâm Đồng"
+},
+{
+"symbol": "LCD",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Lắp máy - Thí nghiệm cơ điện"
+},
+{
+"symbol": "LCG",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN LIZEN"
+},
+{
+"symbol": "LCM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai "
+},
+{
+"symbol": "LDG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư LDG "
+},
+{
+"symbol": "LDP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược Lâm Đồng - Ladophar"
+},
+{
+"symbol": "LDW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp thoát nước Lâm Đồng"
+},
+{
+"symbol": "LEC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bất động sản Điện lực Miền Trung"
+},
+{
+"symbol": "LG9",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ giới và Xây lắp số 9"
+},
+{
+"symbol": "LGC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần đầu tư cầu đường CII"
+},
+{
+"symbol": "LGL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Long Giang"
+},
+{
+"symbol": "LHC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng"
+},
+{
+"symbol": "LHG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Long Hậu "
+},
+{
+"symbol": "LIC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty LICOGI - CTCP"
+},
+{
+"symbol": "LIG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Licogi 13"
+},
+{
+"symbol": "LIX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bột giặt Lix"
+},
+{
+"symbol": "LKW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Long Khánh"
+},
+{
+"symbol": "LLM",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty lắp máy Việt Nam - Công ty Cổ phần"
+},
+{
+"symbol": "LM3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 3 "
+},
+{
+"symbol": "LM7",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 7 "
+},
+{
+"symbol": "LM8",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Lilama 18"
+},
+{
+"symbol": "LMC",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần LUMI Holdings"
+},
+{
+"symbol": "LMH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần quốc tế Holding"
+},
+{
+"symbol": "LMI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng lắp máy IDICO"
+},
+{
+"symbol": "LNC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Lệ Ninh"
+},
+{
+"symbol": "LO5",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lilama 5 "
+},
+{
+"symbol": "LPB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại cổ phần Lộc Phát Việt Nam "
+},
+{
+"symbol": "LPS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán LPBank"
+},
+{
+"symbol": "LPT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thương mại và Sản xuất Lập Phương Thành"
+},
+{
+"symbol": "LQN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần LICOGI Quảng Ngãi"
+},
+{
+"symbol": "LSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bất động sản Sài Gòn VI NA"
+},
+{
+"symbol": "LSS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Mía đường Lam Sơn"
+},
+{
+"symbol": "LTC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Điện nhẹ Viễn thông"
+},
+{
+"symbol": "LUT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư xây dựng Lương Tài"
+},
+{
+"symbol": "M10",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty May 10 - Công ty Cổ phần"
+},
+{
+"symbol": "MA1",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN THIẾT BỊ"
+},
+{
+"symbol": "MAC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ Phần Tập Đoàn Macstar"
+},
+{
+"symbol": "MAS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dịch vụ hàng không sân bay Đà Nẵng "
+},
+{
+"symbol": "MBB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Quân đội "
+},
+{
+"symbol": "MBG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn MBG"
+},
+{
+"symbol": "MBN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường và Công trình đô thị Bắc Ninh"
+},
+{
+"symbol": "MBS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần chứng khoán MB"
+},
+{
+"symbol": "MBT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần bất động sản cho thuê Minh Bảo Tín"
+},
+{
+"symbol": "MCC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Gạch Ngói Cao Cấp"
+},
+{
+"symbol": "MCF",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây lắp Cơ khí và Lương thực Thực phẩm (Mecofood)"
+},
+{
+"symbol": "MCG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Năng lượng và Bất Động sản MCG"
+},
+{
+"symbol": "MCH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Hàng Tiêu Dùng Masan"
+},
+{
+"symbol": "MCM",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN GIỐNG BÒ SỮA MỘC CHÂU"
+},
+{
+"symbol": "MCO",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần đầu tư và xây dựng BDC Việt Nam"
+},
+{
+"symbol": "MCP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần In và Bao bì Mỹ Châu"
+},
+{
+"symbol": "MDA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường Đô thị Đông Anh"
+},
+{
+"symbol": "MDC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Than Mông Dương - Vinacomin"
+},
+{
+"symbol": "MDF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Gỗ MDF VRG - Quảng Trị"
+},
+{
+"symbol": "MDG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Miền Đông"
+},
+{
+"symbol": "MEC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cơ khí - lắp máy Sông Đà"
+},
+{
+"symbol": "MED",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN DƯỢC TRUNG ƯƠNG MEDIPLANTEX"
+},
+{
+"symbol": "MEF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần MEINFA"
+},
+{
+"symbol": "MEL",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thép Mê Lin"
+},
+{
+"symbol": "MES",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ điện Công trình"
+},
+{
+"symbol": "MFS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dịch vụ kỹ thuật Mobifone"
+},
+{
+"symbol": "MGC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Địa chất mỏ - TKV"
+},
+{
+"symbol": "MGG",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Đức Giang - Công ty cổ phần"
+},
+{
+"symbol": "MGR",
+"exchange": "UPCOM",
+"company_name": "CTCP Tập đoàn Mgroup"
+},
+{
+"symbol": "MH3",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Khu công nghiệp Cao su Bình Long"
+},
+{
+"symbol": "MHC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần MHC"
+},
+{
+"symbol": "MHL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Minh Hữu Liên"
+},
+{
+"symbol": "MIC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Kỹ nghệ khoáng sản Quảng Nam"
+},
+{
+"symbol": "MIE",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP"
+},
+{
+"symbol": "MIG",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bảo Hiểm Quân Đội"
+},
+{
+"symbol": "MKP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hóa - Dược phẩm Mekophar"
+},
+{
+"symbol": "MKV",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược thú y Cai Lậy "
+},
+{
+"symbol": "MLC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường Đô thị tỉnh Lào Cai"
+},
+{
+"symbol": "MLS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chăn nuôi - Mitraco"
+},
+{
+"symbol": "MML",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Masan MEATLife"
+},
+{
+"symbol": "MNB",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty May Nhà Bè - Công ty cổ phần"
+},
+{
+"symbol": "MND",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường Nam Định"
+},
+{
+"symbol": "MPC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn Thủy sản Minh Phú"
+},
+{
+"symbol": "MPT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần tập đoàn MPT"
+},
+{
+"symbol": "MPY",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường đô thị Phú Yên"
+},
+{
+"symbol": "MQB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường và Phát triển đô thị Quảng Bình"
+},
+{
+"symbol": "MQN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường đô thị Quảng Ngãi"
+},
+{
+"symbol": "MRF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Merufa"
+},
+{
+"symbol": "MSB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam"
+},
+{
+"symbol": "MSH",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần May Sông Hồng"
+},
+{
+"symbol": "MSN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Masan"
+},
+{
+"symbol": "MSR",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN MASAN HIGH-TECH MATERIALS"
+},
+{
+"symbol": "MST",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần đầu tư MST"
+},
+{
+"symbol": "MTA",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP"
+},
+{
+"symbol": "MTB",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN MÔI TRƯỜNG VÀ CÔNG TRÌNH ĐÔ THỊ TỈNH THÁI BÌNH"
+},
+{
+"symbol": "MTG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần MT GAS"
+},
+{
+"symbol": "MTH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường Đô thị Hà Đông"
+},
+{
+"symbol": "MTL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Môi trường Đô thị Từ Liêm"
+},
+{
+"symbol": "MTP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược Medipharco"
+},
+{
+"symbol": "MTS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vật tư - TKV"
+},
+{
+"symbol": "MTV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu"
+},
+{
+"symbol": "MVB",
+"exchange": "HNX",
+"company_name": "Tổng công ty Công nghiệp mỏ Việt Bắc TKV_CTCP"
+},
+{
+"symbol": "MVC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vật liệu và Xây dựng Bình Dương"
+},
+{
+"symbol": "MVN",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Hàng hải Việt Nam – Công ty cổ phần"
+},
+{
+"symbol": "MWG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần đầu tư Thế giới di động"
+},
+{
+"symbol": "MZG",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN MIZA"
+},
+{
+"symbol": "NAB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Nam Á"
+},
+{
+"symbol": "NAC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn Xây dựng Tổng hợp"
+},
+{
+"symbol": "NAF",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nafoods Group "
+},
+{
+"symbol": "NAG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Nagakawa"
+},
+{
+"symbol": "NAP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng Nghệ Tĩnh"
+},
+{
+"symbol": "NAS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ hàng không sân bay Việt Nam"
+},
+{
+"symbol": "NAU",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường và Công trình Đô thị Nghệ An"
+},
+{
+"symbol": "NAV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nam Việt "
+},
+{
+"symbol": "NAW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Nghệ An"
+},
+{
+"symbol": "NBB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần đầu tư Năm Bảy Bảy"
+},
+{
+"symbol": "NBC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Than Núi Béo - Vinacomin "
+},
+{
+"symbol": "NBE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sách và Thiết bị giáo dục miền Bắc"
+},
+{
+"symbol": "NBP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Nhiệt điện Ninh Bình"
+},
+{
+"symbol": "NBT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần cấp thoát nước Bến Tre"
+},
+{
+"symbol": "NBW",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cấp nước Nhà Bè"
+},
+{
+"symbol": "NCG",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Đầu Tư Anova Agri"
+},
+{
+"symbol": "NCS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Suất ăn hàng không Nội Bài"
+},
+{
+"symbol": "NCT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần dịch vụ hàng hóa Nội Bài "
+},
+{
+"symbol": "ND2",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển điện miền Bắc 2"
+},
+{
+"symbol": "NDC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nam dược "
+},
+{
+"symbol": "NDF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chế biến Thực phẩm Nông sản Xuất khẩu Nam Định"
+},
+{
+"symbol": "NDN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng"
+},
+{
+"symbol": "NDP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược phẩm 2/9"
+},
+{
+"symbol": "NDT",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty cổ phần Dệt May Nam Định"
+},
+{
+"symbol": "NDW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Nam Định"
+},
+{
+"symbol": "NDX",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng"
+},
+{
+"symbol": "NED",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc"
+},
+{
+"symbol": "NET",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bột giặt Net"
+},
+{
+"symbol": "NFC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phân lân Ninh Bình "
+},
+{
+"symbol": "NGC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chế biến thủy sản Xuất khẩu Ngô Quyền "
+},
+{
+"symbol": "NHA",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội"
+},
+{
+"symbol": "NHC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần gạch ngói Nhị Hiệp "
+},
+{
+"symbol": "NHD",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu CTCP Dược phẩm Nam Hà"
+},
+{
+"symbol": "NHH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhựa Hà Nội"
+},
+{
+"symbol": "NHT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sản xuất và Thương mại Nam Hoa"
+},
+{
+"symbol": "NHV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sức khoẻ Hồi sinh Việt Nam"
+},
+{
+"symbol": "NJC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần May Nam Định"
+},
+{
+"symbol": "NKG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thép Nam Kim"
+},
+{
+"symbol": "NLG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Nam Long"
+},
+{
+"symbol": "NLS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp thoát nước Lạng Sơn"
+},
+{
+"symbol": "NNC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đá Núi Nhỏ"
+},
+{
+"symbol": "NNT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Ninh Thuận"
+},
+{
+"symbol": "NO1",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần tập đoàn 911"
+},
+{
+"symbol": "NOS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận tải biển và Thương mại Phương Đông"
+},
+{
+"symbol": "NQB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Quảng Bình"
+},
+{
+"symbol": "NQN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước sạch Quảng Ninh"
+},
+{
+"symbol": "NRC",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Tập Đoàn Bất Động Sản Quốc Gia"
+},
+{
+"symbol": "NSC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Giống cây trồng Trung Ương "
+},
+{
+"symbol": "NSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nhựa Sài Gòn"
+},
+{
+"symbol": "NSH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Nhôm Sông Hồng Shalumi"
+},
+{
+"symbol": "NSL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cấp nước Sơn La"
+},
+{
+"symbol": "NSS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nông Súc Sản Đồng Nai"
+},
+{
+"symbol": "NST",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Ngân Sơn "
+},
+{
+"symbol": "NT2",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2 "
+},
+{
+"symbol": "NTC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Khu Công nghiệp Nam Tân Uyên"
+},
+{
+"symbol": "NTF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược - Vật tư Y tế Nghệ An"
+},
+{
+"symbol": "NTH",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Thủy điện Nước trong"
+},
+{
+"symbol": "NTL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển đô thị Từ Liêm"
+},
+{
+"symbol": "NTP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Nhựa Thiếu niên Tiền Phong "
+},
+{
+"symbol": "NTT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dệt - May Nha Trang"
+},
+{
+"symbol": "NTW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Nhơn Trạch"
+},
+{
+"symbol": "NUE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường Đô thị Nha Trang"
+},
+{
+"symbol": "NVB",
+"exchange": "HNX",
+"company_name": "Ngân hàng Thương mại Cổ phần Quốc Dân "
+},
+{
+"symbol": "NVL",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va"
+},
+{
+"symbol": "NVP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nước sạch Vĩnh Phúc"
+},
+{
+"symbol": "NVT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay"
+},
+{
+"symbol": "NWT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải Newway"
+},
+{
+"symbol": "NXT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Viejoy Holdings"
+},
+{
+"symbol": "OCB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Phương Đông"
+},
+{
+"symbol": "OCH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần One Capital Hospitality"
+},
+{
+"symbol": "ODE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn Truyền thông và Giải trí ODE"
+},
+{
+"symbol": "OGC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Đại Dương "
+},
+{
+"symbol": "OIL",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Dầu Việt Nam – Công ty cổ phần"
+},
+{
+"symbol": "ONE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Công nghệ ONE"
+},
+{
+"symbol": "ONW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn ONW"
+},
+{
+"symbol": "OPC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược phẩm OPC "
+},
+{
+"symbol": "ORS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Tiên Phong"
+},
+{
+"symbol": "PAC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Pin Ắc quy miền Nam"
+},
+{
+"symbol": "PAI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghệ Thông tin, Viễn thông và Tự động hóa Dầu Khí"
+},
+{
+"symbol": "PAN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn PAN"
+},
+{
+"symbol": "PAP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dầu khí Đầu tư Khai thác Cảng Phước An"
+},
+{
+"symbol": "PAS",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN QUỐC TẾ PHƯƠNG ANH"
+},
+{
+"symbol": "PAT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Phốt pho Apatit Việt Nam"
+},
+{
+"symbol": "PBC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dược phẩm Trung Ương I - Pharbaco"
+},
+{
+"symbol": "PBP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bao bì Dầu khí Việt Nam"
+},
+{
+"symbol": "PBT",
+"exchange": "UPCOM",
+"company_name": "CTCP Bao bì và Thương mại Dầu khí Bình Sơn"
+},
+{
+"symbol": "PC1",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn PC1"
+},
+{
+"symbol": "PCB",
+"exchange": "UPCOM",
+"company_name": "Ngân hàng Thương mại Cổ phần Đại Chúng Việt Nam"
+},
+{
+"symbol": "PCC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn Xây lắp 1 - Petrolimex"
+},
+{
+"symbol": "PCE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phân bón và Hóa chất Dầu khí Miền Trung"
+},
+{
+"symbol": "PCF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cà Phê PETEC"
+},
+{
+"symbol": "PCG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Gas Đô thị"
+},
+{
+"symbol": "PCH",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Picomat Holding"
+},
+{
+"symbol": "PCM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vật liệu xây dựng Bưu Điện"
+},
+{
+"symbol": "PCT",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần vận tải biển Global Pacific"
+},
+{
+"symbol": "PDB",
+"exchange": "HNX",
+"company_name": "Công ty cố phần tập đoàn đầu tư DIN Capital"
+},
+{
+"symbol": "PDC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch Dầu khí Phương Đông"
+},
+{
+"symbol": "PDN",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cảng Đồng Nai "
+},
+{
+"symbol": "PDR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt "
+},
+{
+"symbol": "PDV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần vận tải và tiếp vận Phương Đông Việt"
+},
+{
+"symbol": "PEG",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư - Công ty cổ phần"
+},
+{
+"symbol": "PEN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây lắp III Petrolimex"
+},
+{
+"symbol": "PEQ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thiết bị xăng dầu Petrolimex"
+},
+{
+"symbol": "PET",
+"exchange": "HOSE",
+"company_name": "Tổng Công Ty Cổ Phần Dịch Vụ Tổng Hợp Dầu Khí"
+},
+{
+"symbol": "PFL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dầu khí Đông Đô"
+},
+{
+"symbol": "PGB",
+"exchange": "UPCOM",
+"company_name": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN THỊNH VƯỢNG VÀ PHÁT TRIỂN"
+},
+{
+"symbol": "PGC",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Gas Petrolimex - CTCP"
+},
+{
+"symbol": "PGD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phân phối khí Thấp áp Dầu khí Việt Nam"
+},
+{
+"symbol": "PGI",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bảo hiểm Petrolimex "
+},
+{
+"symbol": "PGN",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Phụ Gia Nhựa"
+},
+{
+"symbol": "PGS",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần kinh doanh khí miền nam"
+},
+{
+"symbol": "PGT",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần PGT Holdings"
+},
+{
+"symbol": "PGV",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Phát điện 3 - Công ty cổ phần"
+},
+{
+"symbol": "PHC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây dựng Phục Hưng Holdings"
+},
+{
+"symbol": "PHH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hồng Hà Việt Nam "
+},
+{
+"symbol": "PHN",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Pin Hà Nội"
+},
+{
+"symbol": "PHP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Hải Phòng"
+},
+{
+"symbol": "PHR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Phước Hòa "
+},
+{
+"symbol": "PHS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng khoán Phú Hưng"
+},
+{
+"symbol": "PIA",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tin học Viễn thông Petrolimex"
+},
+{
+"symbol": "PIC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Điện lực 3"
+},
+{
+"symbol": "PID",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Trang trí nội thất Dầu khí "
+},
+{
+"symbol": "PIS",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty PISICO Bình Định - CTCP"
+},
+{
+"symbol": "PIT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Petrolimex"
+},
+{
+"symbol": "PIV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần PIV"
+},
+{
+"symbol": "PJC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội"
+},
+{
+"symbol": "PJS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cấp nước Phú Hòa Tân"
+},
+{
+"symbol": "PJT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải Xăng dầu Đường Thủy Petrolimex"
+},
+{
+"symbol": "PLA",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư và Dịch vụ Hạ tầng Xăng Dầu"
+},
+{
+"symbol": "PLC",
+"exchange": "HNX",
+"company_name": "Tổng Công ty Hóa dầu Petrolimex - CTCP"
+},
+{
+"symbol": "PLE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn Xây Dựng Petrolimex"
+},
+{
+"symbol": "PLO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kho vận Petec"
+},
+{
+"symbol": "PLP",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Sản xuất và Công nghệ Nhựa Pha Lê"
+},
+{
+"symbol": "PLX",
+"exchange": "HOSE",
+"company_name": "Tập đoàn Xăng dầu Việt Nam"
+},
+{
+"symbol": "PMB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phân bón và Hóa chất Dầu khí miền Bắc "
+},
+{
+"symbol": "PMC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược phẩm dược liệu Pharmedic "
+},
+{
+"symbol": "PMG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung"
+},
+{
+"symbol": "PMJ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần vật tư Bưu điện"
+},
+{
+"symbol": "PMP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bao bì Đạm Phú Mỹ"
+},
+{
+"symbol": "PMS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cơ khí Xăng dầu"
+},
+{
+"symbol": "PMT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Viễn thông Telvina Việt Nam"
+},
+{
+"symbol": "PMW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Phú Mỹ"
+},
+{
+"symbol": "PNC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần văn hoá Phương Nam "
+},
+{
+"symbol": "PND",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xăng dầu Dầu khí Nam Định"
+},
+{
+"symbol": "PNG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần thương mại Phú Nhuận"
+},
+{
+"symbol": "PNJ",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vàng bạc đá quý Phú Nhuận"
+},
+{
+"symbol": "PNP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tân Cảng - Phú Hữu"
+},
+{
+"symbol": "PNT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kỹ thuật Xây dựng Phú Nhuận"
+},
+{
+"symbol": "POB",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Xăng Dầu Dầu Khí Hưng Yên"
+},
+{
+"symbol": "POM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thép Pomina"
+},
+{
+"symbol": "POS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận hành và Xây lắp PTSC"
+},
+{
+"symbol": "POT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thiết bị Bưu Điện"
+},
+{
+"symbol": "POV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng"
+},
+{
+"symbol": "POW",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Điện lực Dầu khí Việt Nam – Công ty cổ phần"
+},
+{
+"symbol": "PPC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhiệt điện Phả Lại "
+},
+{
+"symbol": "PPE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tư vấn đầu tư PP Enterprise"
+},
+{
+"symbol": "PPH",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Phong Phú"
+},
+{
+"symbol": "PPI",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN DỰ ÁN HẠ TẦNG THÁI BÌNH DƯƠNG"
+},
+{
+"symbol": "PPP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dược phẩm Phong Phú"
+},
+{
+"symbol": "PPS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dịch vụ kỹ thuật Điện lực Dầu khí Việt Nam "
+},
+{
+"symbol": "PPT",
+"exchange": "HNX",
+"company_name": "CTCP Petro Times"
+},
+{
+"symbol": "PPY",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xăng dầu Dầu khí Phú Yên"
+},
+{
+"symbol": "PQN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Dầu khí Quảng Ngãi PTSC"
+},
+{
+"symbol": "PRC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Portserco"
+},
+{
+"symbol": "PRE",
+"exchange": "HNX",
+"company_name": "Tổng công ty cổ phần Tái bảo hiểm Hà Nội"
+},
+{
+"symbol": "PRO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Procimex Việt Nam"
+},
+{
+"symbol": "PRT",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty cổ phần Sản xuất – Xuất nhập khẩu Bình Dương"
+},
+{
+"symbol": "PSB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Dầu khí Sao Mai - Bến Đình"
+},
+{
+"symbol": "PSC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn "
+},
+{
+"symbol": "PSD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí "
+},
+{
+"symbol": "PSE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phân Bón và Hóa Chất Dầu Khí Đông Nam Bộ "
+},
+{
+"symbol": "PSH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu"
+},
+{
+"symbol": "PSI",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Dầu khí"
+},
+{
+"symbol": "PSL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chăn nuôi Phú Sơn"
+},
+{
+"symbol": "PSN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Kỹ thuật PTSC Thanh Hoá"
+},
+{
+"symbol": "PSP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ"
+},
+{
+"symbol": "PSW",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phân bón và Hóa chất dầu khí Tây Nam Bộ"
+},
+{
+"symbol": "PTB",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Phú Tài"
+},
+{
+"symbol": "PTC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư ICAPITAL"
+},
+{
+"symbol": "PTD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thiết kế - Xây dựng - Thương mại Phúc Thịnh"
+},
+{
+"symbol": "PTE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng Phú Thọ"
+},
+{
+"symbol": "PTG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần May xuất khẩu Phan Thiết "
+},
+{
+"symbol": "PTH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây"
+},
+{
+"symbol": "PTI",
+"exchange": "HNX",
+"company_name": "Tổng Công ty Cổ phần bảo hiểm bưu điện"
+},
+{
+"symbol": "PTL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Victory Group"
+},
+{
+"symbol": "PTM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sản xuất, Thương mại và Dịch vụ ôtô PTM"
+},
+{
+"symbol": "PTO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ - Xây dựng Công trình Bưu điện"
+},
+{
+"symbol": "PTP",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN PTP"
+},
+{
+"symbol": "PTS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng"
+},
+{
+"symbol": "PTT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải Dầu khí Đông Dương"
+},
+{
+"symbol": "PTV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thương mại Dầu khí"
+},
+{
+"symbol": "PTX",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh"
+},
+{
+"symbol": "PV2",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Genea Capital"
+},
+{
+"symbol": "PVB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bọc Ống Dầu khí Việt Nam "
+},
+{
+"symbol": "PVC",
+"exchange": "HNX",
+"company_name": "Tổng công ty Hóa chất và Dịch vụ Dầu khí - CTCP (PVChem)"
+},
+{
+"symbol": "PVD",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Khoan và Dịch vụ khoan dầu khí"
+},
+{
+"symbol": "PVE",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty tư vấn thiết kế dầu khí - CTCP"
+},
+{
+"symbol": "PVG",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN KINH DOANH LPG VIỆT NAM"
+},
+{
+"symbol": "PVH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây lắp Dầu khí Thanh Hóa"
+},
+{
+"symbol": "PVI",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần PVI"
+},
+{
+"symbol": "PVL",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Địa Ốc Dầu Khí"
+},
+{
+"symbol": "PVM",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Máy - Thiết bị Dầu khí"
+},
+{
+"symbol": "PVO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần DẦU NHỜN PV OIL"
+},
+{
+"symbol": "PVP",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Vận tải Dầu khí Thái Bình Dương"
+},
+{
+"symbol": "PVR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư PVR Hà Nội"
+},
+{
+"symbol": "PVS",
+"exchange": "HNX",
+"company_name": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam"
+},
+{
+"symbol": "PVT",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Vận tải dầu khí"
+},
+{
+"symbol": "PVV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vinaconex 39"
+},
+{
+"symbol": "PVX",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam"
+},
+{
+"symbol": "PVY",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Chế tạo Giàn khoan Dầu khí"
+},
+{
+"symbol": "PWA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bất động sản Dầu khí"
+},
+{
+"symbol": "PWS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước Phú Yên"
+},
+{
+"symbol": "PXA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại Dầu khí Nghệ An"
+},
+{
+"symbol": "PXI",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Xây Dựng Công Nghiệp Và Dân Dụng Dầu Khí"
+},
+{
+"symbol": "PXL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Khu công nghiệp Dầu khí Long Sơn"
+},
+{
+"symbol": "PXM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây lắp Dầu khí miền Trung "
+},
+{
+"symbol": "PXS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí"
+},
+{
+"symbol": "PXT",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Xây Lắp Đường Ống Bể Chứa Dầu Khí"
+},
+{
+"symbol": "QBS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Quảng Bình"
+},
+{
+"symbol": "QCC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư xây dựng và phát triển hạ tầng viễn thông"
+},
+{
+"symbol": "QCG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Quốc Cường Gia Lai "
+},
+{
+"symbol": "QHD",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần que hàn điện Việt Đức"
+},
+{
+"symbol": "QHW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần nước khoáng Quảng Ninh"
+},
+{
+"symbol": "QNC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh"
+},
+{
+"symbol": "QNP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cảng Quy Nhơn"
+},
+{
+"symbol": "QNS",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Đường Quảng Ngãi"
+},
+{
+"symbol": "QNT",
+"exchange": "UPCOM",
+"company_name": "CTCP Tư vấn và Đầu tư phát triển Quảng Nam"
+},
+{
+"symbol": "QNU",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường Đô thị Quảng Nam"
+},
+{
+"symbol": "QNW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp thoát nước và Xây dựng Quảng Ngãi"
+},
+{
+"symbol": "QPH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần thủy điện Quế Phong"
+},
+{
+"symbol": "QSP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tân Cảng Quy Nhơn"
+},
+{
+"symbol": "QST",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh"
+},
+{
+"symbol": "QTC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Công trình giao thông Vận tải Quảng Nam"
+},
+{
+"symbol": "QTP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nhiệt điện Quảng Ninh"
+},
+{
+"symbol": "RAL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông "
+},
+{
+"symbol": "RAT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải và Thương mại Đường Sắt"
+},
+{
+"symbol": "RBC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công nghiệp và Xuất nhập khẩu Cao su"
+},
+{
+"symbol": "RCC",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN TỔNG CÔNG TY CÔNG TRÌNH ĐƯỜNG SẮT VIỆT NAM"
+},
+{
+"symbol": "RCL",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Địa ốc Chợ Lớn"
+},
+{
+"symbol": "REE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cơ điện lạnh"
+},
+{
+"symbol": "RGG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Regal Group"
+},
+{
+"symbol": "RIC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Quốc tế Hoàng Gia"
+},
+{
+"symbol": "RTB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cao su Tân Biên"
+},
+{
+"symbol": "RYG",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ ĐẦU TƯ HOÀNG GIA"
+},
+{
+"symbol": "S12",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 12 "
+},
+{
+"symbol": "S4A",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện Sê San 4A"
+},
+{
+"symbol": "S55",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sông Đà 505"
+},
+{
+"symbol": "S72",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Sông Đà 7.02"
+},
+{
+"symbol": "S74",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 7.04"
+},
+{
+"symbol": "S99",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần SCI"
+},
+{
+"symbol": "SAB",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn"
+},
+{
+"symbol": "SAC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn"
+},
+{
+"symbol": "SAF",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Lương thực Thực phẩm SAFOCO"
+},
+{
+"symbol": "SAL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Trục vớt cứu hộ Việt Nam"
+},
+{
+"symbol": "SAM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần SAM HOLDINGS"
+},
+{
+"symbol": "SAS",
+"exchange": "UPCOM",
+"company_name": "Công ty Dịch vụ Hàng không sân bay Tân Sơn Nhất"
+},
+{
+"symbol": "SAV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX"
+},
+{
+"symbol": "SB1",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần bia Sài Gòn - Nghệ Tĩnh"
+},
+{
+"symbol": "SBA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sông Ba"
+},
+{
+"symbol": "SBB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn Bia Sài Gòn Bình Tây"
+},
+{
+"symbol": "SBD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công nghệ Sao Bắc Đẩu"
+},
+{
+"symbol": "SBG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Cơ khí Công nghệ cao Siba"
+},
+{
+"symbol": "SBH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy điện Sông Ba Hạ"
+},
+{
+"symbol": "SBL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bia Sài Gòn - Bạc Liêu"
+},
+{
+"symbol": "SBM",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Phát triển Bắc Minh"
+},
+{
+"symbol": "SBR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cao su Sông Bé"
+},
+{
+"symbol": "SBS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng khoán Ngân hàng Sài Gòn Thương tín "
+},
+{
+"symbol": "SBT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thành Thành Công - Biên Hòa"
+},
+{
+"symbol": "SBV",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Siam Brothers Việt Nam"
+},
+{
+"symbol": "SC5",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Xây dựng số 5 "
+},
+{
+"symbol": "SCC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại Đầu tư SHB"
+},
+{
+"symbol": "SCD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước Giải khát Chương Dương (CDBECO)"
+},
+{
+"symbol": "SCG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Xây dựng SCG"
+},
+{
+"symbol": "SCI",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần SCI E&C"
+},
+{
+"symbol": "SCJ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng Sài Sơn"
+},
+{
+"symbol": "SCL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà Cao Cường"
+},
+{
+"symbol": "SCO",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghiệp Thủy sản"
+},
+{
+"symbol": "SCR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín"
+},
+{
+"symbol": "SCS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dịch vụ Hàng hóa Sài Gòn"
+},
+{
+"symbol": "SD2",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 2"
+},
+{
+"symbol": "SD3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 3"
+},
+{
+"symbol": "SD4",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 4"
+},
+{
+"symbol": "SD5",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sông Đà 5"
+},
+{
+"symbol": "SD6",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 6"
+},
+{
+"symbol": "SD7",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 7"
+},
+{
+"symbol": "SD8",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 8"
+},
+{
+"symbol": "SD9",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sông Đà 9"
+},
+{
+"symbol": "SDA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Simco Sông Đà "
+},
+{
+"symbol": "SDC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tư vấn sông Đà"
+},
+{
+"symbol": "SDD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Xây lắp Sông Đà"
+},
+{
+"symbol": "SDG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần SADICO Cần Thơ"
+},
+{
+"symbol": "SDK",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cơ khí Luyện kim "
+},
+{
+"symbol": "SDN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sơn Đồng Nai"
+},
+{
+"symbol": "SDP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần SDP"
+},
+{
+"symbol": "SDT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sông Đà 10 "
+},
+{
+"symbol": "SDU",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư xây dựng và Phát triển đô thị Sông Đà"
+},
+{
+"symbol": "SDV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Sonadezi "
+},
+{
+"symbol": "SDY",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng Elecem"
+},
+{
+"symbol": "SEA",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Thủy sản Việt Nam – Công ty cổ phần"
+},
+{
+"symbol": "SEB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển điện miền Trung"
+},
+{
+"symbol": "SED",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển giáo dục Phương Nam "
+},
+{
+"symbol": "SEP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tổng Công ty Thương mại Quảng Trị"
+},
+{
+"symbol": "SFC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhiên Liệu Sài Gòn "
+},
+{
+"symbol": "SFG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần phân bón Miền Nam"
+},
+{
+"symbol": "SFI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đại lý Vận tải SAFI"
+},
+{
+"symbol": "SFN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dệt lưới Sài Gòn "
+},
+{
+"symbol": "SGB",
+"exchange": "UPCOM",
+"company_name": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG"
+},
+{
+"symbol": "SGC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Sa Giang"
+},
+{
+"symbol": "SGD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hồ Chí Minh"
+},
+{
+"symbol": "SGH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Khách sạn Sài Gòn"
+},
+{
+"symbol": "SGI",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư SGI Holdings"
+},
+{
+"symbol": "SGN",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Phục vụ Mặt đất Sài Gòn"
+},
+{
+"symbol": "SGP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cảng Sài Gòn"
+},
+{
+"symbol": "SGR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tổng Công ty Cổ phần Địa Ốc Sài Gòn"
+},
+{
+"symbol": "SGS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần vận tải biển Sài Gòn"
+},
+{
+"symbol": "SGT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn"
+},
+{
+"symbol": "SHA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sơn Hà Sài Gòn"
+},
+{
+"symbol": "SHB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Sài Gòn - Hà Nội "
+},
+{
+"symbol": "SHC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hàng hải Sài Gòn"
+},
+{
+"symbol": "SHE",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Phát triển năng lượng Sơn Hà"
+},
+{
+"symbol": "SHI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Quốc tế Sơn Hà"
+},
+{
+"symbol": "SHN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội"
+},
+{
+"symbol": "SHP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện miền Nam "
+},
+{
+"symbol": "SHS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Sài Gòn Hà Nội "
+},
+{
+"symbol": "SID",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Sài Gòn CO.OP"
+},
+{
+"symbol": "SIG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại Sông Đà"
+},
+{
+"symbol": "SII",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Hạ tầng Nước Sài Gòn"
+},
+{
+"symbol": "SIP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Sài Gòn VRG"
+},
+{
+"symbol": "SIV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần SIVICO"
+},
+{
+"symbol": "SJ1",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Nông nghiệp Hùng Hậu"
+},
+{
+"symbol": "SJD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy Điện Cần Đơn"
+},
+{
+"symbol": "SJE",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sông Đà 11"
+},
+{
+"symbol": "SJF",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ phần Đầu tư Sao Thái Dương"
+},
+{
+"symbol": "SJG",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Sông Đà - CTCP"
+},
+{
+"symbol": "SJM",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Sunspace Holdings"
+},
+{
+"symbol": "SJS",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần SJ Group"
+},
+{
+"symbol": "SKG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang "
+},
+{
+"symbol": "SKH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước giải khát Sanest Khánh Hòa"
+},
+{
+"symbol": "SKN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nước giải khát Sanna Khánh Hòa"
+},
+{
+"symbol": "SKV",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước Giải khát Yến sào Khánh Hòa"
+},
+{
+"symbol": "SLD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Địa Ốc Sacom"
+},
+{
+"symbol": "SLS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Mía đường Sơn La "
+},
+{
+"symbol": "SMA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thiết bị phụ tùng Sài Gòn"
+},
+{
+"symbol": "SMB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Bia Sài Gòn - Miền Trung "
+},
+{
+"symbol": "SMC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần đầu tư thương mại SMC "
+},
+{
+"symbol": "SMN",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần sách và thiết bị giáo dục miền Nam "
+},
+{
+"symbol": "SMT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sametel"
+},
+{
+"symbol": "SNC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Năm Căn"
+},
+{
+"symbol": "SNZ",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Phát triển khu Công Nghiệp"
+},
+{
+"symbol": "SP2",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy điện Sử Pán 2"
+},
+{
+"symbol": "SPB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Sợi Phú Bài"
+},
+{
+"symbol": "SPC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bảo vệ thực vật Sài Gòn"
+},
+{
+"symbol": "SPD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản miền Trung "
+},
+{
+"symbol": "SPH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần xuất nhập khẩu thủy sản Hà Nội"
+},
+{
+"symbol": "SPI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Spiral Galaxy"
+},
+{
+"symbol": "SPM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần S.P.M "
+},
+{
+"symbol": "SPV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy Đặc Sản"
+},
+{
+"symbol": "SRA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sara Việt Nam "
+},
+{
+"symbol": "SRB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn SARA "
+},
+{
+"symbol": "SRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Sao vàng"
+},
+{
+"symbol": "SRF",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Searefico"
+},
+{
+"symbol": "SSB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Đông Nam Á"
+},
+{
+"symbol": "SSC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Giống cây trồng miền Nam "
+},
+{
+"symbol": "SSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải biển Hải Âu"
+},
+{
+"symbol": "SSH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần phát triển Sunshine Homes"
+},
+{
+"symbol": "SSI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần chứng khoán SSI"
+},
+{
+"symbol": "SSM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chế tạo kết cấu thép VNECO.SSM"
+},
+{
+"symbol": "ST8",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Tập Đoàn ST8"
+},
+{
+"symbol": "STB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng TMCP Sài Gòn Tài Lộc"
+},
+{
+"symbol": "STC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sách và Thiết bị trường học TP Hồ Chí Minh "
+},
+{
+"symbol": "STD",
+"exchange": "UPCOM",
+"company_name": "CTCP Bia - Nước giải khát Sài Gòn - Tây Đô"
+},
+{
+"symbol": "STG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Kho vận miền Nam"
+},
+{
+"symbol": "STH",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần STH Holdings"
+},
+{
+"symbol": "STK",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sợi thế kỷ "
+},
+{
+"symbol": "STP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần công nghiệp thương mại Sông Đà"
+},
+{
+"symbol": "STS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Vận tải Sài Gòn"
+},
+{
+"symbol": "STT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận chuyển Sài Gòn Tourist "
+},
+{
+"symbol": "STW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Sóc Trăng"
+},
+{
+"symbol": "SVC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần dịch vụ tổng hợp Sài Gòn "
+},
+{
+"symbol": "SVD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng"
+},
+{
+"symbol": "SVG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Hơi Kĩ Nghệ Que Hàn"
+},
+{
+"symbol": "SVH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy điện Sông Vàng"
+},
+{
+"symbol": "SVN",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn Vexilla Việt Nam"
+},
+{
+"symbol": "SVT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông"
+},
+{
+"symbol": "SWC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Đường sông Miền Nam "
+},
+{
+"symbol": "SZB",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Sonadezi Long Bình"
+},
+{
+"symbol": "SZC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Sonadezi Châu Đức"
+},
+{
+"symbol": "SZE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Môi trường Sonadezi"
+},
+{
+"symbol": "SZG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sonadezi Giang Điền"
+},
+{
+"symbol": "SZL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sonadezi Long Thành"
+},
+{
+"symbol": "TA6",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư và Xây lắp Thành An 665"
+},
+{
+"symbol": "TA9",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây lắp Thành An 96"
+},
+{
+"symbol": "TAB",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN FRECO VIỆT NAM"
+},
+{
+"symbol": "TAH",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Thương mại Dịch vụ Giấy Thuận An"
+},
+{
+"symbol": "TAL",
+"exchange": "HOSE",
+"company_name": "CTCP Đầu tư Bất động sản Taseco"
+},
+{
+"symbol": "TAR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nông nghiệp Công nghệ cao Trung An"
+},
+{
+"symbol": "TAW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp nước Trung An"
+},
+{
+"symbol": "TBC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện Thác Bà"
+},
+{
+"symbol": "TBD",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Thiết bị điện Đông Anh"
+},
+{
+"symbol": "TBR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Địa ốc Tân Bình"
+},
+{
+"symbol": "TBW",
+"exchange": "UPCOM",
+"company_name": "CTCP Nước sạch Thái Bình"
+},
+{
+"symbol": "TCB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Kỹ Thương Việt Nam - Techcombank"
+},
+{
+"symbol": "TCD",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN XÂY DỰNG TRACODI"
+},
+{
+"symbol": "TCH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy"
+},
+{
+"symbol": "TCI",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Chứng khoán Thành Công"
+},
+{
+"symbol": "TCJ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tô Châu"
+},
+{
+"symbol": "TCK",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Cơ khí xây dựng - CTCP"
+},
+{
+"symbol": "TCL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đại lý giao nhận Vận tải xếp dỡ Tân Cảng "
+},
+{
+"symbol": "TCM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công "
+},
+{
+"symbol": "TCO",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN JANUS GROUP"
+},
+{
+"symbol": "TCR",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Công Nghiệp Gốm sứ Taicera "
+},
+{
+"symbol": "TCT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh "
+},
+{
+"symbol": "TCW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kho vận Tân Cảng"
+},
+{
+"symbol": "TCX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Techcombank"
+},
+{
+"symbol": "TD6",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Than Đèo Nai - Cọc Sáu - TKV"
+},
+{
+"symbol": "TDB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy điện Định Bình"
+},
+{
+"symbol": "TDC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương"
+},
+{
+"symbol": "TDF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Trung Đô"
+},
+{
+"symbol": "TDG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư TDG GLOBAL"
+},
+{
+"symbol": "TDH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển nhà Thủ Đức"
+},
+{
+"symbol": "TDM",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Nước Thủ Dầu Một"
+},
+{
+"symbol": "TDP",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Thuận Đức"
+},
+{
+"symbol": "TDS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần thép Thủ Đức"
+},
+{
+"symbol": "TDT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển TDT"
+},
+{
+"symbol": "TDW",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cấp nước Thủ Đức"
+},
+{
+"symbol": "TED",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Tư vấn thiết kế Giao thông vận tải -CTCP"
+},
+{
+"symbol": "TEG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Trường Thành Energy Group"
+},
+{
+"symbol": "TET",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Bất Động Sản Pristie"
+},
+{
+"symbol": "TFC",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Trang"
+},
+{
+"symbol": "TGG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần The Golden Group"
+},
+{
+"symbol": "TGP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Trường Phú "
+},
+{
+"symbol": "TH1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam "
+},
+{
+"symbol": "THB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bia Hà Nội - Thanh Hóa"
+},
+{
+"symbol": "THD",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN THAIHOLDINGS"
+},
+{
+"symbol": "THG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang "
+},
+{
+"symbol": "THM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tứ Hải Hà Nam"
+},
+{
+"symbol": "THN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Thanh Hóa"
+},
+{
+"symbol": "THP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thủy sản và Thương mại Thuận Phước"
+},
+{
+"symbol": "THS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thanh Hoa - Sông Đà"
+},
+{
+"symbol": "THT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần than Hà Tu – Vinacomin"
+},
+{
+"symbol": "THU",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường và Công trình đô thị Thanh Hóa"
+},
+{
+"symbol": "THW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần cấp nước Tân Hòa"
+},
+{
+"symbol": "TID",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tổng công ty Tín Nghĩa"
+},
+{
+"symbol": "TIE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần TIE"
+},
+{
+"symbol": "TIG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Đầu tư Thăng long"
+},
+{
+"symbol": "TIN",
+"exchange": "UPCOM",
+"company_name": "Công ty Tài chính tổng hợp cổ phần Tín Việt"
+},
+{
+"symbol": "TIP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển Khu công nghiệp Tín Nghĩa"
+},
+{
+"symbol": "TIS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Gang thép Thái Nguyên "
+},
+{
+"symbol": "TIX",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình "
+},
+{
+"symbol": "TJC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Dịch vụ Vận tải và Thương mại "
+},
+{
+"symbol": "TKA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bao bì Tân Khánh An"
+},
+{
+"symbol": "TKU",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Công nghiệp Tung Kuang"
+},
+{
+"symbol": "TL4",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Xây dựng Thủy lợi 4 "
+},
+{
+"symbol": "TLD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long"
+},
+{
+"symbol": "TLG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Thiên Long"
+},
+{
+"symbol": "TLH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn thép Tiến Lên"
+},
+{
+"symbol": "TLP",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Thương mại Xuất nhập khẩu Thanh Lễ – CTCP"
+},
+{
+"symbol": "TMB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Kinh doanh Than miền Bắc - Vinacomin"
+},
+{
+"symbol": "TMC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thủ Đức"
+},
+{
+"symbol": "TMG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Kim loại màu Thái Nguyên - Vimico"
+},
+{
+"symbol": "TMP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện Thác Mơ"
+},
+{
+"symbol": "TMS",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN TRANSIMEX"
+},
+{
+"symbol": "TMT",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Ô tô TMT "
+},
+{
+"symbol": "TMW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần tổng hợp gỗ Tân Mai"
+},
+{
+"symbol": "TMX",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vicem Thương mại xi măng "
+},
+{
+"symbol": "TN1",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN ROX KEY HOLDINGS"
+},
+{
+"symbol": "TNA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương Mại Xuất Nhập Khẩu Thiên Nam"
+},
+{
+"symbol": "TNB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thép Nhà Bè - VNSTEEL"
+},
+{
+"symbol": "TNC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Thống Nhất"
+},
+{
+"symbol": "TNG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Thương mại TNG"
+},
+{
+"symbol": "TNH",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN BỆNH VIỆN TNH "
+},
+{
+"symbol": "TNI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Thành Nam"
+},
+{
+"symbol": "TNP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cảng Thị Nại"
+},
+{
+"symbol": "TNS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thép Tấm Lá Thống Nhất"
+},
+{
+"symbol": "TNT",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần tập đoàn TNT"
+},
+{
+"symbol": "TNW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Nước sạch Thái Nguyên"
+},
+{
+"symbol": "TOP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phân phối Top One"
+},
+{
+"symbol": "TOS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ biển Tân Cảng"
+},
+{
+"symbol": "TOT",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Transimex Logistics"
+},
+{
+"symbol": "TOW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Trà Nóc - Ô Môn"
+},
+{
+"symbol": "TPB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại cổ phần Tiên Phong"
+},
+{
+"symbol": "TPC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhựa Tân Đại Hưng"
+},
+{
+"symbol": "TPP",
+"exchange": "HNX",
+"company_name": "Công Ty Cổ Phần Tân Phú Việt Nam"
+},
+{
+"symbol": "TPS",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bến bãi vận tải Sài Gòn"
+},
+{
+"symbol": "TQW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước Tuyên Quang"
+},
+{
+"symbol": "TR1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải 1 Traco"
+},
+{
+"symbol": "TRA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Traphaco "
+},
+{
+"symbol": "TRC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Cao su Tây Ninh"
+},
+{
+"symbol": "TRS",
+"exchange": "UPCOM",
+"company_name": "CTCP vận tải và dịch vụ hàng hải"
+},
+{
+"symbol": "TRT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần RedstarCera"
+},
+{
+"symbol": "TRV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận tải Đường sắt"
+},
+{
+"symbol": "TS3",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Trường Sơn 532"
+},
+{
+"symbol": "TSA",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư và Xây lắp Trường Sơn"
+},
+{
+"symbol": "TSB",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Ắc quy Tia sáng"
+},
+{
+"symbol": "TSC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vật tư kỹ thuật nông nghiệp Cần Thơ"
+},
+{
+"symbol": "TSD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch Trường Sơn Coecco"
+},
+{
+"symbol": "TSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thông tin Tín hiệu Đường sắt Sài Gòn"
+},
+{
+"symbol": "TSJ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch Dịch vụ Hà Nội"
+},
+{
+"symbol": "TST",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông"
+},
+{
+"symbol": "TT6",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn Tiến Thịnh"
+},
+{
+"symbol": "TTA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành"
+},
+{
+"symbol": "TTB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần TTBGROUP"
+},
+{
+"symbol": "TTC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Gạch men Thanh Thanh"
+},
+{
+"symbol": "TTD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Bệnh viện Tim Tâm Đức"
+},
+{
+"symbol": "TTE",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Đầu tư Năng lượng Trường Thịnh"
+},
+{
+"symbol": "TTF",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Kỹ nghệ gỗ Trường Thành "
+},
+{
+"symbol": "TTG",
+"exchange": "UPCOM",
+"company_name": " Công ty Cổ phần Royal Healthtech TTG"
+},
+{
+"symbol": "TTH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại và Dịch vụ Tiến Thành"
+},
+{
+"symbol": "TTL",
+"exchange": "HNX",
+"company_name": "Tổng công ty xây dựng Thăng Long - Công ty cổ phần"
+},
+{
+"symbol": "TTN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghệ và Truyền thông Việt Nam"
+},
+{
+"symbol": "TTS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cán thép Thái Trung"
+},
+{
+"symbol": "TTT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Du lịch - Thương mại Tây Ninh"
+},
+{
+"symbol": "TTZ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Công nghệ Tiến Trung"
+},
+{
+"symbol": "TUG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Lai dắt và Vận tải Cảng Hải Phòng"
+},
+{
+"symbol": "TV1",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn xây dựng điện 1"
+},
+{
+"symbol": "TV2",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tư vấn Xây dựng điện 2"
+},
+{
+"symbol": "TV3",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tư vấn xây dựng điện 3"
+},
+{
+"symbol": "TV4",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tư vấn xây dựng điện 4"
+},
+{
+"symbol": "TV6",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN EMA LAND"
+},
+{
+"symbol": "TVA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sứ Viglacera Thanh Trì"
+},
+{
+"symbol": "TVB",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Chứng Khoán T-Cap"
+},
+{
+"symbol": "TVC",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Tập đoàn Quản lý Tài sản T-Corp"
+},
+{
+"symbol": "TVD",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần than Vàng Danh - Vinacomin "
+},
+{
+"symbol": "TVG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn đầu tư và Xây dựng giao thông vận tải"
+},
+{
+"symbol": "TVH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tư vấn Xây dựng công trình Hàng hải"
+},
+{
+"symbol": "TVM",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin"
+},
+{
+"symbol": "TVN",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Thép Việt Nam - CTCP"
+},
+{
+"symbol": "TVS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng Khoán Thiên Việt"
+},
+{
+"symbol": "TVT",
+"exchange": "HOSE",
+"company_name": "Tổng công ty Việt Thắng - CTCP"
+},
+{
+"symbol": "TW3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược Trung Ương 3"
+},
+{
+"symbol": "TXM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần VICEM Thạch cao Xi măng"
+},
+{
+"symbol": "TYA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam "
+},
+{
+"symbol": "UCT",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đô thị Cần Thơ"
+},
+{
+"symbol": "UDC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng UDCons"
+},
+{
+"symbol": "UDJ",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phát triển Đô thị - Becamex UDJ"
+},
+{
+"symbol": "UDL",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đô thị và Môi trường Đắk Lắk"
+},
+{
+"symbol": "UEM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần cơ điện Uông Bí"
+},
+{
+"symbol": "UIC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư phát triển Nhà và Đô thị IDICO "
+},
+{
+"symbol": "ULG",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Logistics U&I"
+},
+{
+"symbol": "UMC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công trình đô thị Nam Định"
+},
+{
+"symbol": "UNI",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Sao Mai Việt"
+},
+{
+"symbol": "UPC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Phát triển công viên cây xanh và Đô thị Vũng Tàu"
+},
+{
+"symbol": "UPH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Dược phẩm TW25"
+},
+{
+"symbol": "UPS",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Chứng khoán UP"
+},
+{
+"symbol": "USC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Khảo sát và Xây dựng - USCO"
+},
+{
+"symbol": "USD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Công trình Đô thị Sóc Trăng"
+},
+{
+"symbol": "UTT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Môi trường Nam Thành"
+},
+{
+"symbol": "UXC",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN CHẾ BIẾN THỦY SẢN ÚT XI "
+},
+{
+"symbol": "V12",
+"exchange": "HNX",
+"company_name": "CTCP Xây dựng số 12"
+},
+{
+"symbol": "V21",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần vinaconex21"
+},
+{
+"symbol": "V68",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Đầu tư Sản xuất và Thương mại Tuấn Anh"
+},
+{
+"symbol": "VAB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Việt Á"
+},
+{
+"symbol": "VAF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phân lân nung chảy Văn Điển"
+},
+{
+"symbol": "VAV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần VIWACO"
+},
+{
+"symbol": "VBB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thương Tín"
+},
+{
+"symbol": "VBC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Nhựa - Bao bì Vinh "
+},
+{
+"symbol": "VBG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Địa chất Việt Bắc - TKV"
+},
+{
+"symbol": "VBH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Điện tử Bình Hòa"
+},
+{
+"symbol": "VBT",
+"exchange": "UPCOM",
+"company_name": "Cổ phiếu Công ty cổ phần Vận tải Bảo Thắng"
+},
+{
+"symbol": "VC1",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây dựng số 1 "
+},
+{
+"symbol": "VC2",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Xây dựng VINA2"
+},
+{
+"symbol": "VC3",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN NAM MÊ KÔNG"
+},
+{
+"symbol": "VC6",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Xây dựng và Đầu tư Visicons"
+},
+{
+"symbol": "VC7",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN BGI"
+},
+{
+"symbol": "VC9",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây dựng số 9 "
+},
+{
+"symbol": "VCA",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thép VICASA"
+},
+{
+"symbol": "VCB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam "
+},
+{
+"symbol": "VCC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Vinaconex 25"
+},
+{
+"symbol": "VCE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây lắp Môi trường"
+},
+{
+"symbol": "VCF",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vinacafé Biên Hòa"
+},
+{
+"symbol": "VCG",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Cổ phần Xuất nhập khẩu và xây dựng Việt Nam "
+},
+{
+"symbol": "VCI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Vietcap"
+},
+{
+"symbol": "VCK",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán VPS"
+},
+{
+"symbol": "VCM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần BV Life"
+},
+{
+"symbol": "VCP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Năng lượng Vinaconex"
+},
+{
+"symbol": "VCR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần đầu tư và phát triển du lịch ITC"
+},
+{
+"symbol": "VCS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần VICOSTONE"
+},
+{
+"symbol": "VCT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tư vấn Xây dựng Vinaconex"
+},
+{
+"symbol": "VCX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng Yên Bình "
+},
+{
+"symbol": "VDB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận tải và Chế biến Than Đông Bắc"
+},
+{
+"symbol": "VDG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vạn Đạt Group"
+},
+{
+"symbol": "VDL",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thực phẩm Lâm Đồng "
+},
+{
+"symbol": "VDN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vinatex Đà Nẵng"
+},
+{
+"symbol": "VDP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Dược phẩm Trung ương Vidipha"
+},
+{
+"symbol": "VDS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán Rồng Việt (VDSC)"
+},
+{
+"symbol": "VDT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Lưới thép Bình Tây "
+},
+{
+"symbol": "VE1",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây dựng điện VNECO 1 "
+},
+{
+"symbol": "VE3",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Xây dựng điện VNECO 3 "
+},
+{
+"symbol": "VE4",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần xây dựng điện VNECO 4 "
+},
+{
+"symbol": "VE8",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng Điện Vneco 8 "
+},
+{
+"symbol": "VE9",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và xây dựng VNECO 9 "
+},
+{
+"symbol": "VEA",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Máy Động lực và Máy Nông nghiệp Việt Nam – CTCP"
+},
+{
+"symbol": "VEC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Điện tử và Tin học Việt Nam"
+},
+{
+"symbol": "VEF",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Trung Tâm Hội Chợ Triển Lãm Việt Nam"
+},
+{
+"symbol": "VES",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Tập đoàn VinaLiving"
+},
+{
+"symbol": "VET",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thuốc Thú y Trung ương NAVETCO"
+},
+{
+"symbol": "VFC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vinafco"
+},
+{
+"symbol": "VFG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Khử trùng Việt Nam "
+},
+{
+"symbol": "VFR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải và Thuê tàu"
+},
+{
+"symbol": "VFS",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần chứng khoán Nhất Việt"
+},
+{
+"symbol": "VGC",
+"exchange": "HOSE",
+"company_name": "Tổng Công ty Viglacera - CTCP"
+},
+{
+"symbol": "VGG",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần may Việt Tiến "
+},
+{
+"symbol": "VGI",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty cổ phần Đầu tư Quốc tế Viettel"
+},
+{
+"symbol": "VGL",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Mạ kẽm công nghiệp Vingal - Vnsteel"
+},
+{
+"symbol": "VGP",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Cảng rau quả"
+},
+{
+"symbol": "VGR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cảng Xanh Vip"
+},
+{
+"symbol": "VGS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Ống thép Việt Đức VG PIPE"
+},
+{
+"symbol": "VGT",
+"exchange": "UPCOM",
+"company_name": "Tập đoàn Dệt May Việt Nam"
+},
+{
+"symbol": "VGV",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP"
+},
+{
+"symbol": "VHC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vĩnh Hoàn"
+},
+{
+"symbol": "VHD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư phát triển nhà và đô thị Vinahud"
+},
+{
+"symbol": "VHE",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần Dược liệu và Thực phẩm Việt Nam"
+},
+{
+"symbol": "VHF",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng và chế biến lương thực Vĩnh Hà"
+},
+{
+"symbol": "VHG",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Tập đoàn Tây Bà Nà"
+},
+{
+"symbol": "VHH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư Kinh doanh nhà Thành Đạt"
+},
+{
+"symbol": "VHL",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Viglacera Hạ Long"
+},
+{
+"symbol": "VHM",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Vinhomes"
+},
+{
+"symbol": "VIB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam"
+},
+{
+"symbol": "VIC",
+"exchange": "HOSE",
+"company_name": "Tập đoàn VINGROUP - CTCP"
+},
+{
+"symbol": "VID",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông"
+},
+{
+"symbol": "VIE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghệ Viễn thông VITECO"
+},
+{
+"symbol": "VIF",
+"exchange": "HNX",
+"company_name": "Tổng công ty Lâm nghiệp Việt Nam - Công ty cổ phần"
+},
+{
+"symbol": "VIG",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán Thương mại và Công nghiệp Việt Nam (VICS) "
+},
+{
+"symbol": "VIM",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Khoáng sản Viglacera"
+},
+{
+"symbol": "VIN",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam"
+},
+{
+"symbol": "VIP",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải Xăng dầu VIPCO"
+},
+{
+"symbol": "VIR",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Du lịch Quốc tế Vũng Tàu "
+},
+{
+"symbol": "VIT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Viglacera Tiên Sơn "
+},
+{
+"symbol": "VIW",
+"exchange": "UPCOM",
+"company_name": "Tổng công ty Đầu tư Nước và Môi trường Việt Nam - CTCP"
+},
+{
+"symbol": "VIX",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VIX"
+},
+{
+"symbol": "VJC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Hàng không VIETJET"
+},
+{
+"symbol": "VKC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần VKC Holdings"
+},
+{
+"symbol": "VLA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang"
+},
+{
+"symbol": "VLB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xây dựng và Sản xuất vật liệu xây dựng Biên Hòa"
+},
+{
+"symbol": "VLC",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Chăn nuôi Việt Nam - CTCP"
+},
+{
+"symbol": "VLG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ Phần VIMC LOGISTICS"
+},
+{
+"symbol": "VLP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công trình Công cộng Vĩnh Long"
+},
+{
+"symbol": "VLS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Sản xuất Thép Việt Long"
+},
+{
+"symbol": "VLW",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Cấp nước Vĩnh Long"
+},
+{
+"symbol": "VMA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Công nghiệp Ô tô - Vinacomin"
+},
+{
+"symbol": "VMC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần VIMECO"
+},
+{
+"symbol": "VMD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Y Dược phẩm Vimedimex "
+},
+{
+"symbol": "VMG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thương mại và Dịch vụ dầu khí Vũng Tàu"
+},
+{
+"symbol": "VMK",
+"exchange": "UPCOM",
+"company_name": "CTCP Vimarko"
+},
+{
+"symbol": "VMS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Phát triển Hàng hải"
+},
+{
+"symbol": "VMT",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN GIAO NHẬN VẬN TẢI MIỀN TRUNG"
+},
+{
+"symbol": "VNA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần vận tải biển VINASHIP "
+},
+{
+"symbol": "VNB",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Sách Việt Nam"
+},
+{
+"symbol": "VNC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Tập đoàn Vinacontrol"
+},
+{
+"symbol": "VND",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Chứng khoán VNDIRECT"
+},
+{
+"symbol": "VNE",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Xây dựng điện Việt Nam"
+},
+{
+"symbol": "VNF",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần VINAFREIGHT"
+},
+{
+"symbol": "VNG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Du lịch Thành Thành Công"
+},
+{
+"symbol": "VNH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Thủy hải sản Việt Nhật"
+},
+{
+"symbol": "VNI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư bất động sản Việt Nam"
+},
+{
+"symbol": "VNL",
+"exchange": "HOSE",
+"company_name": "CTCP LOGISTICS VINALINK"
+},
+{
+"symbol": "VNM",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Sữa Việt Nam"
+},
+{
+"symbol": "VNP",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần nhựa Việt Nam "
+},
+{
+"symbol": "VNR",
+"exchange": "HNX",
+"company_name": "Tổng Công ty Cổ phần tái bảo hiểm quốc gia Việt Nam"
+},
+{
+"symbol": "VNS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Ánh Dương Việt Nam "
+},
+{
+"symbol": "VNT",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Giao nhận Vận tải Ngoại thương"
+},
+{
+"symbol": "VNX",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Quảng cáo và Hội chợ thương mại"
+},
+{
+"symbol": "VNY",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thuốc Thú y Trung Ương I"
+},
+{
+"symbol": "VNZ",
+"exchange": "UPCOM",
+"company_name": "Công Ty Cổ Phần Tập Đoàn VNG"
+},
+{
+"symbol": "VOS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải biển Việt Nam "
+},
+{
+"symbol": "VPA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải Hóa dầu VP"
+},
+{
+"symbol": "VPB",
+"exchange": "HOSE",
+"company_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng"
+},
+{
+"symbol": "VPC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam "
+},
+{
+"symbol": "VPD",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Phát triển Điện Lực Việt Nam"
+},
+{
+"symbol": "VPG",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Tập đoàn Việt Phát"
+},
+{
+"symbol": "VPH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vạn Phát Hưng "
+},
+{
+"symbol": "VPI",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần Phát Triển Bất Động Sản Văn Phú"
+},
+{
+"symbol": "VPL",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vinpearl"
+},
+{
+"symbol": "VPR",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN VINAPRINT"
+},
+{
+"symbol": "VPS",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần thuốc sát trùng Việt Nam "
+},
+{
+"symbol": "VPW",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc"
+},
+{
+"symbol": "VPX",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Chứng khoán VPBank"
+},
+{
+"symbol": "VQC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Giám định Vinacomin"
+},
+{
+"symbol": "VRC",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Bất động sản và Đầu tư VRC"
+},
+{
+"symbol": "VRE",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vincom Retail"
+},
+{
+"symbol": "VRG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Phát triển đô thị và khu công nghiệp cao su Việt Nam"
+},
+{
+"symbol": "VSA",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Đại lý Hàng hải Việt Nam"
+},
+{
+"symbol": "VSC",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Container Việt Nam"
+},
+{
+"symbol": "VSE",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Dịch vụ Đường cao tốc Việt Nam"
+},
+{
+"symbol": "VSF",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Lương thực Miền Nam – Công ty cổ phần"
+},
+{
+"symbol": "VSG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Container phía Nam "
+},
+{
+"symbol": "VSH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Thủy điện Vĩnh Sơn – Sông Hinh"
+},
+{
+"symbol": "VSI",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần đầu tư và xây dựng cấp thoát nước"
+},
+{
+"symbol": "VSM",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Container Miền Trung"
+},
+{
+"symbol": "VSN",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Việt Nam Kỹ Nghệ Súc Sản"
+},
+{
+"symbol": "VST",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải và Thuê tàu biển Việt Nam"
+},
+{
+"symbol": "VTA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vitaly"
+},
+{
+"symbol": "VTB",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Viettronics Tân Bình"
+},
+{
+"symbol": "VTC",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần viễn thông VTC"
+},
+{
+"symbol": "VTD",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vietourist Holdings"
+},
+{
+"symbol": "VTE",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần VInaCap Kim Long"
+},
+{
+"symbol": "VTG",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần du lịch tỉnh Bà Rịa - Vũng Tàu"
+},
+{
+"symbol": "VTH",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần tập đoàn Việt Thái"
+},
+{
+"symbol": "VTI",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Dệt may"
+},
+{
+"symbol": "VTJ",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Thương mại và Đầu tư VI NA TA BA"
+},
+{
+"symbol": "VTK",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN TƯ VẤN VÀ DỊCH VỤ VIETTEL"
+},
+{
+"symbol": "VTM",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Vận Tải và đưa đón thợ mỏ - Vinacomin"
+},
+{
+"symbol": "VTO",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Vận tải xăng dầu VITACO"
+},
+{
+"symbol": "VTP",
+"exchange": "HOSE",
+"company_name": "Tổng công ty Cổ phần Bưu chính Viettel"
+},
+{
+"symbol": "VTQ",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Việt Trung Quảng Bình"
+},
+{
+"symbol": "VTR",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Du lịch Vietravel"
+},
+{
+"symbol": "VTV",
+"exchange": "HNX",
+"company_name": "CÔNG TY CỔ PHẦN NĂNG LƯỢNG VÀ MÔI TRƯỜNG VICEM"
+},
+{
+"symbol": "VTX",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần vận tải đa phương thức VIETRANSTIMEX"
+},
+{
+"symbol": "VTZ",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành"
+},
+{
+"symbol": "VUA",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Chứng khoán Stanley Brothers"
+},
+{
+"symbol": "VVN",
+"exchange": "UPCOM",
+"company_name": "Tổng Công ty Cổ phần Xây dựng Công nghiệp Việt Nam"
+},
+{
+"symbol": "VVS",
+"exchange": "HOSE",
+"company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM"
+},
+{
+"symbol": "VW3",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ Phần VIWASEEN3"
+},
+{
+"symbol": "VWS",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Nước và Môi trường Việt Nam"
+},
+{
+"symbol": "VXB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vật liệu xây dựng Bến Tre"
+},
+{
+"symbol": "VXP",
+"exchange": "UPCOM",
+"company_name": "CÔNG TY CỔ PHẦN THUỐC THÚ Y TRUNG ƯƠNG VETVACO"
+},
+{
+"symbol": "VXT",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Kho vận và Dịch vụ thương mại"
+},
+{
+"symbol": "WCS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Bến xe miền Tây"
+},
+{
+"symbol": "WSB",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Bia Sài Gòn - Miền Tây"
+},
+{
+"symbol": "WSS",
+"exchange": "HNX",
+"company_name": "Công ty Cổ phần Chứng khoán phố Wall"
+},
+{
+"symbol": "WTC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Vận tải thủy - Vinacomin"
+},
+{
+"symbol": "X20",
+"exchange": "HNX",
+"company_name": "Công ty cổ phần X20"
+},
+{
+"symbol": "X26",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần 26"
+},
+{
+"symbol": "X77",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Thành An 77"
+},
+{
+"symbol": "XDH",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư Xây dựng Dân dụng Hà Nội"
+},
+{
+"symbol": "XHC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xuân Hòa Việt Nam"
+},
+{
+"symbol": "XLV",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Xây lắp và Dịch vụ Sông Đà"
+},
+{
+"symbol": "XMC",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần Đầu tư và Xây dựng Xuân Mai"
+},
+{
+"symbol": "XMD",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuân Mai - Đạo Tú"
+},
+{
+"symbol": "XMP",
+"exchange": "UPCOM",
+"company_name": "Công ty cổ phần thủy điện Xuân Minh"
+},
+{
+"symbol": "XPH",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xà phòng Hà Nội"
+},
+{
+"symbol": "YBC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xi măng và Khoáng sản Yên Bái "
+},
+{
+"symbol": "YBM",
+"exchange": "HOSE",
+"company_name": "Công Ty Cổ Phần YBM"
+},
+{
+"symbol": "YEG",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tập đoàn Yeah1"
+},
+{
+"symbol": "YTC",
+"exchange": "UPCOM",
+"company_name": "Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh"
+}
+]
+}

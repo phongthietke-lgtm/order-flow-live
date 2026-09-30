@@ -3,3 +3,6 @@ __pycache__/
 .pytest_cache/
 *.pyc
 .env
+# tick thô lưu ở GitHub Release, không vào git
+data/ticks/
+data/rel/

@@ -176,6 +176,10 @@ class VndirectClient:
             seen.add(t["acc"])
             uniq.append(t)
         uniq.sort(key=lambda t: t["acc"])
+        if not uniq:
+            # Khác bản gốc order-flow: gom toàn thị trường thì hàng trăm mã UPCOM không khớp lệnh nào — nguồn trả rỗng
+            # là "không có giao dịch", không phải lỗi. last_error để trống (đã reset ở _page) để bên gọi phân biệt.
+            return []
         gap = shortfall(uniq)
         if gap is None:
             last_error = (f"{symbol}: phiên thiếu tick (Σ KL {sum(t['vol'] for t in uniq):,} ≠ luỹ kế "

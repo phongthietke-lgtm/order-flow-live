@@ -7,19 +7,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-# Tick thô nén gz, mỗi (mã, ngày) một file, giữ mãi — nguồn gốc để dựng lại mọi thứ về sau (máy chủ live, lab…).
+# Thư mục làm việc tick thô gz data/ticks/<ngày>/<MÃ>.json.gz (không commit — lưu lâu dài ở GitHub Release).
 TICKS = DATA / "ticks"
-# Bản ghi phiên (nến 5' có footprint) cùng định dạng kho order-flow/data/store.
-STORE = DATA / "store"
 
 # Offset cố định +7: VN không có giờ mùa hè, Windows mặc định thiếu bộ tzdata.
 TZ = timezone(timedelta(hours=7), name="Asia/Ho_Chi_Minh")
 
 HTTP_TIMEOUT = float(os.getenv("HTTP_TIMEOUT", "30"))
-
-# Danh mục lấy từ KingStock (app cảnh báo Stochastic trên Fly). Fly chết thì dùng bản chụp data/watchlist.json
-# (khác order-flow: bản chụp được COMMIT để runner Actions cũng có dự phòng).
-KINGSTOCK_WATCHLIST = os.getenv("KINGSTOCK_WATCHLIST", "https://kingstock-deptlink.fly.dev/api/watchlist")
 
 # Header giả trình duyệt — một số nguồn có WAF chặn UA lạ.
 BROWSER_HEADERS = {

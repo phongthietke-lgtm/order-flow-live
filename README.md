@@ -3,24 +3,27 @@
 Bản order flow **cập nhật liên tục trong phiên** — dự án riêng, không dùng chung gì với `order-flow` (bản sau phiên).
 Kế hoạch đầy đủ: `C:\Users\IT\.claude\plans\h-y-nghi-n-c-u-3-keen-wirth.md`.
 
-## Hiện có: giai đoạn −1 — bộ gom kho (chi phí 0)
+## Hiện có: giai đoạn −1 — bộ gom kho toàn thị trường (chi phí 0)
 
-GitHub Actions `collect` chạy 15:10 thứ Hai–Sáu (bù 15:30, 17:00, 20:00), lấy danh mục từ KingStock, tải toàn bộ
-lệnh khớp phiên hôm nay từ VNDirect và lưu:
+GitHub Actions `collect` chạy 15:10 thứ Hai–Sáu (bù 15:30, 17:00, 20:00). Danh sách mã lấy thẳng từ VNDirect —
+**toàn bộ cổ phiếu đang niêm yết HOSE/HNX/UPCOM** (≈1.522 mã, 30/09/2026), không phụ thuộc KingStock. Mỗi mã tải
+toàn bộ lệnh khớp phiên hôm nay; mã không khớp lệnh hôm nay ghi vào danh sách "không GD".
 
-| Đường dẫn | Nội dung |
+| Nơi lưu | Nội dung |
 |---|---|
-| `data/ticks/<MÃ>/<ngày>.json.gz` | lệnh khớp gốc `[giờ, giá thô, KL, side, KL luỹ kế]` — giữ mãi |
-| `data/store/<MÃ>/<ngày>.json` | nến 5' có footprint, cùng định dạng kho `order-flow/data/store` |
-| `data/state.json` | kết quả lượt gom có phiên mới gần nhất, số phiên trong kho |
-| `data/watchlist.json` | bản chụp danh mục KingStock (dự phòng khi Fly chết) |
+| GitHub **Release** `t<ngày>` → `ticks-<ngày>.tar` | mỗi mã một `<MÃ>.json.gz`: `[giờ, giá thô, KL, side, KL luỹ kế]` — giữ mãi |
+| `data/days/<ngày>.json` | mục lục ngày: mỗi mã số tick, KL, mua/bán chủ động, cp hụt; mã không GD; mã lỗi |
+| `data/state.json` | kết quả lượt gom gần nhất, số phiên trong kho (`sessions`) |
+| `data/symbols.json` | bản chụp danh sách mã (dự phòng khi endpoint danh sách lỗi) |
 
-Khi dựng máy chủ trong phiên (giai đoạn 1), kho này nạp thẳng làm nền 20 phiên.
+Tick thô không vào git (vài MB/ngày × hàng trăm phiên sẽ làm repo quá nặng). Nến 5'/footprint dựng lại từ tick bằng
+`flow.ticks.session_record` — test phiên vàng FPT 25/09 chứng minh trùng tuyệt đối kho order-flow.
 
 ## Chạy trên máy
 
 ```
 venv\Scripts\python -m pytest -q
-venv\Scripts\python -m job.collect            # sau 15:00; trong giờ phiên job tự bỏ qua phiên dở dang
-venv\Scripts\python -m job.collect --force    # gom lại cả mã đã có
+venv\Scripts\python -m job.collect                  # sau 14:50; trước giờ đó job tự dừng
+venv\Scripts\python -m job.collect --only FPT,VCB   # thử vài mã
+venv\Scripts\python -m job.collect --force          # gom lại cả mã đã có
 ```
