@@ -6,3 +6,4 @@ __pycache__/
 # tick thô lưu ở GitHub Release, không vào git
 data/ticks/
 data/rel/
+data/probe/
