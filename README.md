@@ -6,7 +6,7 @@ Kế hoạch đầy đủ: `C:\Users\IT\.claude\plans\h-y-nghi-n-c-u-3-keen-wirt
 ## Hiện có: giai đoạn −1 — bộ gom kho toàn thị trường (chi phí 0)
 
 GitHub Actions `collect` chạy 15:10 thứ Hai–Sáu (bù 15:30, 17:00, 20:00). Danh sách mã lấy thẳng từ VNDirect —
-**toàn bộ cổ phiếu đang niêm yết HOSE/HNX/UPCOM** (≈1.522 mã, 30/09/2026), không phụ thuộc KingStock. Mỗi mã tải
+**toàn bộ cổ phiếu đang niêm yết HOSE + HNX** (704 mã, 30/09/2026; UPCOM bỏ theo yêu cầu), không phụ thuộc KingStock. Mỗi mã tải
 toàn bộ lệnh khớp phiên hôm nay; mã không khớp lệnh hôm nay ghi vào danh sách "không GD".
 
 | Nơi lưu | Nội dung |

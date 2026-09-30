@@ -1,4 +1,4 @@
-"""Bộ gom sau phiên — TOÀN BỘ cổ phiếu HOSE/HNX/UPCOM (≈1.500 mã), lệnh khớp gốc từ VNDirect. Độc lập hoàn toàn.
+"""Bộ gom sau phiên — TOÀN BỘ cổ phiếu HOSE + HNX (≈700 mã, không UPCOM), lệnh khớp gốc từ VNDirect. Độc lập hoàn toàn.
 
 Giai đoạn −1 của order-flow-live: gom sẵn lịch sử lệnh khớp trước khi có máy chủ chạy trong phiên.
 

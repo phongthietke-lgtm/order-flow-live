@@ -1,4 +1,4 @@
-"""Danh sách mã: TOÀN BỘ cổ phiếu đang niêm yết HOSE/HNX/UPCOM, lấy thẳng từ VNDirect finfo — không phụ thuộc KingStock.
+"""Danh sách mã: TOÀN BỘ cổ phiếu đang niêm yết HOSE + HNX (không UPCOM), lấy thẳng từ VNDirect finfo — không phụ thuộc KingStock.
 
 GET {VNDIRECT_BASE}/stocks?q=type:STOCK~status:LISTED&size=9999 — đo 30/09/2026: 1.522 mã (HOSE 405, HNX 299,
 UPCOM 818). Bản chụp data/symbols.json được commit để job vẫn chạy khi endpoint danh sách lỗi.
@@ -17,9 +17,10 @@ from common.vndirect import VNDIRECT_BASE
 logger = logging.getLogger(__name__)
 
 CACHE = DATA / "symbols.json"
-FLOORS = ("HOSE", "HNX", "UPCOM")
+# UPCOM bỏ theo yêu cầu người dùng 30/09/2026 (818 mã, phần lớn ít giao dịch).
+FLOORS = ("HOSE", "HNX")
 # Danh sách trả ít hơn chừng này là bất thường (lỗi nguồn/trang dở) → dùng bản chụp thay vì ghi đè.
-MIN_SYMBOLS = 1000
+MIN_SYMBOLS = 500
 
 
 def _fetch() -> list[dict]:

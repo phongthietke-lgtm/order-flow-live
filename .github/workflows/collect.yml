@@ -1,4 +1,4 @@
-# Bộ gom sau phiên (giai đoạn −1 của order-flow-live): lệnh khớp gốc của TOÀN BỘ cổ phiếu HOSE/HNX/UPCOM (≈1.500 mã)
+# Bộ gom sau phiên (giai đoạn −1 của order-flow-live): lệnh khớp gốc của TOÀN BỘ cổ phiếu HOSE + HNX (≈700 mã, không UPCOM)
 # để có lịch sử trước khi dựng máy chủ trong phiên. 08:10 UTC = 15:10 VN; bù 15:30, 17:00, 20:00 VN — lượt bù chỉ
 # gom mã còn thiếu/lỗi (đọc data/days/<ngày>.json).
 # Gom trong ngày, KHÔNG dựa lượt sáng hôm sau: 07:22 sáng 30/09/2026 nguồn VNDirect đã trả rỗng.
@@ -27,7 +27,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    # ≈1.500 mã × ~0,5 s + trang 2+ của mã thanh khoản cao ≈ 15–20 phút lượt đầu; lượt bù vài phút.
+    # ≈700 mã × ~0,5 s + trang 2+ của mã thanh khoản cao ≈ 8–12 phút lượt đầu; lượt bù vài phút.
     timeout-minutes: 60
     env:
       GH_TOKEN: ${{ github.token }}
