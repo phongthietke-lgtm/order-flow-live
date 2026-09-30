@@ -101,6 +101,13 @@ def test_holiday_writes_nothing(kho):
     assert not (kho / "ticks").exists()
 
 
+def test_quiet_symbol_without_atc_is_saved_after_close(kho):
+    # ABT 30/09/2026: lệnh cuối 13:44:05, không khớp ATC — phiên đã xong, phải lưu
+    quiet = [tk("10:05:00", 49.8, 300, "PS", 300), tk("13:44:05", 49.9, 100, "PS", 400)]
+    res = C.collect(items("ABT"), DAY, False, FakeClient({"ABT": quiet}), now_hm="17:00")
+    assert res["new"] == ["ABT"] and not res["unsettled"]
+
+
 def test_unsettled_session_not_saved(kho):
     morning = SMALL[:2]
     res = C.collect(items("FPT"), DAY, False, FakeClient({"FPT": morning}), now_hm="11:35")

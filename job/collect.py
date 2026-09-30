@@ -36,7 +36,7 @@ from pathlib import Path
 
 from common import vndirect
 from common.config import DATA, TICKS, TZ
-from flow.ticks import SIDE_INDEX, settled
+from flow.ticks import SIDE_INDEX
 from job import symbols
 
 logger = logging.getLogger("order-flow-live")
@@ -160,7 +160,9 @@ def collect(items: list[dict], day: str, force: bool, client, now_hm: str = "23:
                 none.add(sym)          # nguồn rỗng = không khớp lệnh nào
         elif ticks[-1]["date"] != day:
             none.add(sym)              # phiên cũ của mã không giao dịch hôm nay
-        elif not settled(ticks, day) or now_hm < CLOSE_AFTER:
+        elif now_hm < CLOSE_AFTER:
+            # Chỉ xét giờ chạy, KHÔNG dùng flow.ticks.settled(): mã ít GD (ABT 30/09: lệnh cuối 13:44, không khớp ATC)
+            # không có tick ATC/sau 14:45 nên settled() coi là dở dang → 161/704 mã bị bỏ sót mỗi ngày.
             unsettled.append(sym)      # chạy nhầm trong giờ phiên
         else:
             write_ticks(TICKS / day / f"{sym}.json.gz", ticks)
