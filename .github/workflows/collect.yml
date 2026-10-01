@@ -1,7 +1,8 @@
 # Bộ gom sau phiên (giai đoạn −1 của order-flow-live): lệnh khớp gốc của TOÀN BỘ cổ phiếu HOSE + HNX (≈700 mã, không UPCOM)
 # để có lịch sử trước khi dựng máy chủ trong phiên. 08:10 UTC = 15:10 VN; bù 15:30, 17:00, 20:00 VN — lượt bù chỉ
 # gom mã còn thiếu/lỗi (đọc data/days/<ngày>.json).
-# Gom trong ngày, KHÔNG dựa lượt sáng hôm sau: 07:22 sáng 30/09/2026 nguồn VNDirect đã trả rỗng.
+# Gom trong ngày: 07:22 sáng 30/09/2026 nguồn VNDirect đã trả rỗng. Ngày phiên lấy TỪ NGUỒN (job.collect.session_day)
+# vì cron chạy trễ có thể qua nửa đêm; lượt bù tự tải gói Release của ngày đó (download_tar).
 # Tick thô (vài MB/ngày) để ở GitHub Release tag t<ngày>, KHÔNG vào git — repo chỉ giữ mục lục data/days.
 name: collect
 
@@ -11,6 +12,8 @@ on:
     - cron: "30 8 * * 1-5"
     - cron: "0 10 * * 1-5"
     - cron: "0 13 * * 1-5"
+    # 06:30 VN sáng T3–T7: lượt vét cuối cho phiên hôm trước (GitHub trễ lịch 5–6 giờ ngày 30/09/2026).
+    - cron: "30 23 * * 1-5"
   workflow_dispatch:
     inputs:
       force:
@@ -40,12 +43,6 @@ jobs:
           cache: pip
 
       - run: pip install httpx==0.28.1
-
-      # Lượt bù: lấy lại gói tick đã đưa lên của ngày hôm nay để đóng gói lại cùng các mã gom thêm.
-      - name: Tải gói hôm nay (nếu có)
-        run: |
-          DAY=$(TZ=Asia/Ho_Chi_Minh date +%F)
-          gh release download "t$DAY" --pattern "ticks-$DAY.tar" --dir data/rel || echo "chưa có gói $DAY"
 
       # Bài học price-path 23/09/2026: job trả 1 để BÁO "có mã lỗi" nhưng đã ghi xong dữ liệu. Thiếu
       # continue-on-error + các bước sau if: always() thì một mã lỗi làm mất trắng dữ liệu của các mã còn lại.

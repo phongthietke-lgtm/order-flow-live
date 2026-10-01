@@ -5,6 +5,7 @@ store tương ứng chép từ order-flow/data/store — tick lưu ở đây ph�
 """
 import json
 import tarfile
+from datetime import datetime
 from pathlib import Path
 
 import pytest
@@ -124,3 +125,23 @@ def test_tar_deterministic_and_restore(kho):
         p.unlink()
     assert C.restore_tar(DAY) == 2
     assert C.read_ticks(kho / "ticks" / DAY / "FPT.json.gz") == GOLD
+
+
+def at(d, hm):
+    return datetime.fromisoformat(f"{d}T{hm}:00+07:00")
+
+
+def test_session_day_after_midnight_takes_previous_session():
+    # cron 20:00 bị GitHub chạy lúc 00:30 hôm sau: nguồn còn phiên D → gom vào D, không coi là ngày nghỉ
+    cl = FakeClient({"FPT": SMALL, "HPG": SMALL})
+    assert C.session_day(items("FPT", "HPG"), cl, at("2026-09-26", "00:30")) == (DAY, "")
+
+
+def test_session_day_during_session_waits():
+    day, why = C.session_day(items("FPT"), FakeClient({"FPT": SMALL}), at(DAY, "11:00"))
+    assert day is None and "đang diễn ra" in why
+
+
+def test_session_day_source_empty():
+    day, why = C.session_day(items("FPT", "HPG"), FakeClient({}), at(DAY, "16:00"))
+    assert day is None

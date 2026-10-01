@@ -16,7 +16,8 @@ Chạy:
 Bẫy đã biết:
 - Mã không khớp lệnh hôm nay vẫn được nguồn trả phiên CŨ (bẫy "nến cũ phát lại" của TuDoanh/KingStock) → chỉ nhận
   tick có ngày == ngày gom; khác ngày = "không giao dịch hôm nay".
-- 07:22 sáng 30/09/2026 nguồn đã rỗng → phải gom trong ngày (cron 15:10, bù 15:30/17:00/20:00).
+- 07:22 sáng 30/09/2026 nguồn đã rỗng → gom trong ngày (cron 15:10, bù 15:30/17:00/20:00) + lượt vét 06:30 sáng sau.
+- GitHub chạy cron trễ 5–6 giờ, có lượt qua nửa đêm → NGÀY PHIÊN LẤY TỪ NGUỒN (session_day), không từ đồng hồ.
 - Ngày nghỉ lễ: không mã mẫu nào có phiên hôm nay → dừng sớm, không ghi gì.
 
 Mã thoát: 0 ổn · 1 có mã lỗi (ĐÃ ghi xong phần còn lại — workflow vẫn phải đóng gói + commit) · 2 không có danh sách mã.
@@ -33,6 +34,8 @@ import sys
 import tarfile
 from datetime import datetime
 from pathlib import Path
+
+import httpx
 
 from common import vndirect
 from common.config import DATA, TICKS, TZ
@@ -96,8 +99,27 @@ def build_tar(day: str) -> Path:
     return out
 
 
+def download_tar(day: str) -> bool:
+    """Lượt bù trên Actions: tải gói Release đã đưa lên của ngày `day` (repo công khai, không cần token).
+    Ngày lấy từ nguồn nên phải tải ở đây, workflow không biết trước ngày nào."""
+    repo = os.getenv("GITHUB_REPOSITORY")
+    if not repo:
+        return False
+    url = f"https://github.com/{repo}/releases/download/t{day}/ticks-{day}.tar"
+    try:
+        r = httpx.get(url, follow_redirects=True, timeout=120)
+    except httpx.HTTPError as exc:
+        logger.warning("Không tải được gói %s: %s", day, exc)
+        return False
+    if r.status_code != 200:
+        return False
+    REL.mkdir(parents=True, exist_ok=True)
+    (REL / f"ticks-{day}.tar").write_bytes(r.content)
+    return True
+
+
 def restore_tar(day: str) -> int:
-    """Lượt bù: workflow đã tải tệp Release của ngày về data/rel → bung lại vào data/ticks/<ngày>."""
+    """Lượt bù: bung gói Release của ngày (data/rel) vào data/ticks/<ngày>."""
     src = REL / f"ticks-{day}.tar"
     if not src.exists():
         return 0
@@ -131,6 +153,22 @@ def load_day(day: str) -> dict:
     if f.exists():
         return json.loads(f.read_text(encoding="utf-8"))
     return {"date": day, "symbols": {}, "none": [], "failed": {}}
+
+
+def session_day(items: list[dict], client, now: datetime) -> tuple[str | None, str]:
+    """Ngày phiên cần gom, lấy TỪ NGUỒN chứ không từ đồng hồ: GitHub chạy cron trễ 5–6 giờ (30/09/2026 lượt 15:10
+    chạy 21:52, lượt 20:00 chạy 01:16 hôm sau). Lấy theo đồng hồ thì lượt sau nửa đêm tìm phiên của ngày mới, thấy mã
+    mẫu mang phiên hôm trước → tưởng ngày nghỉ → mất phiên (bẫy kiem-mua 28/09).
+    Trả (ngày, "") hoặc (None, lý do)."""
+    probe = [it for it in items if it["symbol"] in PROBE] or items[:5]
+    dates = [t[-1]["date"] for it in probe if (t := client.latest_session(it["symbol"]))]
+    if not dates:
+        return None, "các mã mẫu không có lệnh khớp nào (nguồn đã xoá phiên, hoặc chưa mở phiên mới)"
+    day = max(dates)
+    today = now.date().isoformat()
+    if day == today and now.strftime("%H:%M") < CLOSE_AFTER:
+        return None, f"phiên {day} đang diễn ra ({now:%H:%M}), chờ sau {CLOSE_AFTER}"
+    return day, ""
 
 
 def collect(items: list[dict], day: str, force: bool, client, now_hm: str = "23:59") -> dict:
@@ -185,10 +223,6 @@ def main(argv: list[str] | None = None) -> int:
     a = ap.parse_args(argv)
 
     now = datetime.now(TZ)
-    day, now_hm = now.date().isoformat(), now.strftime("%H:%M")
-    if now_hm < CLOSE_AFTER:
-        print(f"Mới {now_hm} — phiên {day} chưa xong, không gom (tick trước giờ này là của phiên dở dang hoặc phiên cũ)")
-        return 0
     items, src = symbols.load()
     if a.only:
         want = {s.strip().upper() for s in a.only.split(",") if s.strip()}
@@ -196,11 +230,17 @@ def main(argv: list[str] | None = None) -> int:
     if not items:
         print("Không có danh sách mã (VNDirect lỗi và chưa có bản chụp)")
         return 2
+    with vndirect.VndirectClient() as c:
+        day, why = session_day(items, c, now)
+    if day is None:
+        print(f"{now:%Y-%m-%d %H:%M}: không gom — {why}")
+        return 0
+    download_tar(day)
     restored = restore_tar(day)
     print(f"Danh sách {len(items)} mã ({src}) · phiên {day}" + (f" · khôi phục {restored} mã từ Release" if restored else ""))
 
     with vndirect.VndirectClient() as c:
-        res = collect(items, day, a.force, c, now_hm)
+        res = collect(items, day, a.force, c)
     if res["holiday"]:
         print(f"{day}: các mã mẫu {', '.join(PROBE)} không có phiên hôm nay → ngày nghỉ, không ghi gì")
         return 0
