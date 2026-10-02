@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-10-01T20:54:10+07:00",
-"count": 704,
+"fetched_at": "2026-10-02T21:41:38+07:00",
+"count": 705,
 "items": [
 {
 "symbol": "AAA",
@@ -876,6 +876,11 @@
 "symbol": "ECI",
 "exchange": "HNX",
 "company_name": "Công ty Cổ phần Tập đoàn ECI"
+},
+{
+"symbol": "ECO",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Nhựa sinh thái Việt Nam"
 },
 {
 "symbol": "EIB",
