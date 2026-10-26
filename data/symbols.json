@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-10-23T20:19:56+07:00",
-"count": 705,
+"fetched_at": "2026-10-26T22:06:58+07:00",
+"count": 706,
 "items": [
 {
 "symbol": "AAA",
@@ -796,6 +796,11 @@
 "symbol": "DSE",
 "exchange": "HOSE",
 "company_name": "Công ty cổ phần Chứng khoán DNSE"
+},
+{
+"symbol": "DSH",
+"exchange": "HOSE",
+"company_name": "Công ty Cổ phần Đông Sơn Holdings"
 },
 {
 "symbol": "DSN",
