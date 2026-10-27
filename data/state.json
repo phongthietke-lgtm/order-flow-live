@@ -1,13 +1,16 @@
 {
- "run_at": "2026-10-26T22:06:57+07:00",
+ "run_at": "2026-10-27T21:22:01+07:00",
  "list_source": "vndirect",
- "day": "2026-10-26",
- "traded": 567,
- "none": 139,
- "failed": {},
+ "day": "2026-10-27",
+ "traded": 564,
+ "none": 140,
+ "failed": {
+  "FIT": "FIT: phiên thiếu tick (Σ KL 1,123,000 ≠ luỹ kế 1,130,600, 1 chỗ hụt)",
+  "SJE": "SJE: phiên thiếu tick (Σ KL 13,500 ≠ luỹ kế 18,500, 1 chỗ hụt)"
+ },
  "list": 706,
- "new": 567,
+ "new": 564,
  "unsettled": [],
- "sessions": 19,
+ "sessions": 20,
  "first": "2026-09-30"
 }
