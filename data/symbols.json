@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-11-11T23:04:01+07:00",
-"count": 707,
+"fetched_at": "2026-11-12T23:45:07+07:00",
+"count": 708,
 "items": [
 {
 "symbol": "AAA",
@@ -981,6 +981,11 @@
 "symbol": "GAS",
 "exchange": "HOSE",
 "company_name": "Tổng Công ty Khí Việt Nam - CTCP"
+},
+{
+"symbol": "GDA",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Tôn Đông Á"
 },
 {
 "symbol": "GDT",
