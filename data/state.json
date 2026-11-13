@@ -1,13 +1,13 @@
 {
- "run_at": "2026-11-12T23:45:05+07:00",
+ "run_at": "2026-11-13T23:10:30+07:00",
  "list_source": "vndirect",
- "day": "2026-11-12",
- "traded": 568,
- "none": 140,
+ "day": "2026-11-13",
+ "traded": 562,
+ "none": 146,
  "failed": {},
  "list": 708,
- "new": 568,
+ "new": 562,
  "unsettled": [],
- "sessions": 30,
+ "sessions": 31,
  "first": "2026-09-30"
 }
