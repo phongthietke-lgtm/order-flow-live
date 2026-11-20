@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-11-13T23:10:32+07:00",
-"count": 708,
+"fetched_at": "2026-11-20T23:54:36+07:00",
+"count": 711,
 "items": [
 {
 "symbol": "AAA",
@@ -111,6 +111,11 @@
 "symbol": "AMV",
 "exchange": "HNX",
 "company_name": "Công ty Cổ phần Sản xuất kinh doanh dược và Trang thiết bị y tế Việt Mỹ"
+},
+{
+"symbol": "AMY",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Công nghiệp Á Mỹ"
 },
 {
 "symbol": "ANT",
@@ -256,6 +261,11 @@
 "symbol": "BMI",
 "exchange": "HOSE",
 "company_name": "Tổng Công ty Cổ phần Bảo Minh "
+},
+{
+"symbol": "BMJ",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần khoáng sản Miền Đông AHP"
 },
 {
 "symbol": "BMP",
@@ -1201,6 +1211,11 @@
 "symbol": "HII",
 "exchange": "HOSE",
 "company_name": "Công ty Cổ phần An Tiến Industries"
+},
+{
+"symbol": "HIO",
+"exchange": "HOSE",
+"company_name": "Công ty cổ phần Helio Energy"
 },
 {
 "symbol": "HJS",
